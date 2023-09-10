@@ -2,19 +2,18 @@
 	<SLOT name="body">
 		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/jiang_necromancer_v1.rigid_model_v2">
 			<META_DATA>audio_entity_type:wh_necromancer_male_LH</META_DATA>
-			<META_DATA>audio_armour_type:leather</META_DATA>
+			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>
         <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/jiang_necromancer_v2.rigid_model_v2">
 			<META_DATA>audio_entity_type:wh_necromancer_male_LH</META_DATA>
-			<META_DATA>audio_armour_type:leather</META_DATA>
+			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>
         <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/jiang_necromancer_v3.rigid_model_v2">
 			<META_DATA>audio_entity_type:wh_necromancer_male_LH</META_DATA>
-			<META_DATA>audio_armour_type:leather</META_DATA>
-		</VARIANT_MESH>
+			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>
 	</SLOT>
 	<SLOT attach_point="be_prop_0" name="weapon_1"/>
 	<SLOT attach_point="be_prop_1" name="weapon_2">
-		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/vmp_grave_guards_sword_set1.VariantMeshDefinition" />
-        </VARIANT_MESH>
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/vmp_grave_guards_sword_set1.VariantMeshDefinition" >
+        </VARIANT_MESH_REFERENCE>
 	</SLOT>
 	<SLOT attach_point="be_prop_2" name="shield"/>
 	<SLOT attach_point="be_prop_3" name="weapon_3"/>
