@@ -1,0 +1,17 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/jiangshi_reborn+							
+jiang_grave_guard_crossbow		hu1e_jiang_grave_guard_crossbow		1.0000	1.0000	0.0500	
+jiang_grave_guard_halberd		hu1e_jiang_grave_guard_halberd		1.0000	1.0000	0.0500	
+jiang_shadow_lantern	warmachines/aircraft/cth_sky_junk/tech/	jiang_shadow_lantern		1.0000	1.0000	0.0000	
+jiang_zombie_longspear		jiang_zombie_longspear		1.0000	1.0000	0.0500	
+jiang_damned_cannon_crew		cth_zombiex		1.0000	1.0000	0.0500	
+cth_skeleton_pilot		hu1e_jiang_grave_guard_halberd		1.0000	1.0000	0.0500	
+jiang_reg_zomb		cth_zombiex		1.0000	1.0000	0.0500	
+jiang_dracolith		vigpro_spirit_dragon		1.0000	0.7000	0.0000	
+cth_zombie_bow		vmp_zombie_archers		1.0000	1.0000	0.0500	
+jiang_necro_mortar		cth_zombiex		1.0000	1.0000	0.0500	
+jiang_copsewight		jiang_copsewight		1.0000	1.0000	0.0500	
+jiang_shuimu		jiang_shuimu		1.0000	1.3500	0.0500	
+jiang_necro_coil	warmachines/aircraft/cth_sky_junk/tech/	jiang_necro_coil		1.0000	1.0000	0.0000	
+jiang_longma	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	jiang_longma	hr1/cth/cth_longma/cth_longma_armour_heavy_01_imposter	1.0000	1.0000	0.0000	
+jiang_longma_undead		cth_grave_guard_longma		1.0000	1.0000	0.0500	

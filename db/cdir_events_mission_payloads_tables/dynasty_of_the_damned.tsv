@@ -1,0 +1,8 @@
+id	mission_key	payload_key	status_key	value	target_key
+#cdir_events_mission_payloads_tables;2;db/cdir_events_mission_payloads_tables/dynasty_of_the_damned					
+2146015930	bm_theak_qb_tome	TREASURY	SUCCESS	AMOUNT[5000]	default
+2146015931	bm_theak_qb_tome	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[the_forbidden_tomes];SHOULD_REPLACE	default
+2146015932	bm_theak_qb_tome	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default
+2146015933	bm_theak_qb_dagger	TREASURY	SUCCESS	AMOUNT[5000]	default
+2146015934	bm_theak_qb_dagger	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[ancient_sacrifical_dagger];SHOULD_REPLACE	default
+2146015935	bm_theak_qb_dagger	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default

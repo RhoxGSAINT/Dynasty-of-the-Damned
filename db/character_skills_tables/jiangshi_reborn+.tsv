@@ -1,0 +1,7 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/jiangshi_reborn+									
+jiang_skill_innate_vmp_scholar_of_forbidden_arts	trait_vampire_counts.png	Forbidden is a word for those who do not have the will to grasp power.	Scholar of Forbidden Arts	0	true	false	false	1.0000	0
+jiang_yuwei_unique_zombie_dragon	mount_zombie_dragon.png	An Ice Drake felled long ago by Greasus Goldtooth, happened upon by Yuwei in exile.	Jaugrel	19	false	false	false	0.0000	0
+jiang_vigorously_animated	zombie_speed.png	Zombies are terrifying enough, but when they learn how to run, thats when everyone is in trouble.	Vigorously Animated	10	false	false	false	0.0000	0
+jiang_lichdom	yuwei_lichdom.png	A forbidden right to embrace undeath, to be eternal and leave the bonds of mortality to behind.	Lichdom	12	false	false	false	0.0000	0
+enable_yin_vamp_jiang_skill	trait_human.png			0	false	false	false	0.0000	0

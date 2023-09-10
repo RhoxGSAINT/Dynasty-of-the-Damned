@@ -1,0 +1,4 @@
+agent	faction	subtype
+#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/astroliche_+		
+dignitary	wh3_dlc21_vmp_jiangshi_rebels	astroliche_theak_01
+general	wh3_dlc21_vmp_jiangshi_rebels	jade_shugengan_01

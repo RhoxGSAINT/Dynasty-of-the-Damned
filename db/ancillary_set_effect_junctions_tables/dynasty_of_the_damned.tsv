@@ -1,0 +1,4 @@
+effect_key	set_key	effect_scope	value
+#ancillary_set_effect_junctions_tables;0;db/ancillary_set_effect_junctions_tables/dynasty_of_the_damned			
+wh3_main_effect_winds_of_magic_pool_cap	bm_theak_anc_set	general_to_force_own	20.0000
+wh3_main_effect_corruption_vampiric_characters	bm_theak_anc_set	character_to_province_any	5.0000

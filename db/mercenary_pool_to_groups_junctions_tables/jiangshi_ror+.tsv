@@ -1,0 +1,14 @@
+key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tech_requirement
+#mercenary_pool_to_groups_junctions_tables;1;db/mercenary_pool_to_groups_junctions_tables/jiangshi_ror+						
+1001173460	wh2_dlc11_cst_mon_mournguls_ror_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173461	wh_dlc04_vmp_cav_chillgheists_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173462	wh_dlc04_vmp_cav_vereks_reavers_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173463	wh_dlc04_vmp_inf_feasters_in_the_dusk_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173464	wh_dlc04_vmp_inf_konigstein_stalkers_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173465	wh_dlc04_vmp_inf_sternsmen_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173466	wh_dlc04_vmp_veh_claw_of_nagash_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173467	wh2_dlc11_cst_inf_deck_gunners_ror_0	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173468	terra_sentinel_vmp	1	jiangshi_renown_pool		jiangshi_subculture	
+1001173469	jiang_wiltings	0	jiangshi_renown_pool		jiangshi_subculture	
+1001173470	jiang_wightkin	0	jiangshi_renown_pool		jiangshi_subculture	
+1001173471	jiang_copsewight	0	jiangshi_renown_pool		jiangshi_subculture	

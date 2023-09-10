@@ -1,0 +1,9 @@
+model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	banner_relative_to_mount
+#campaign_mounts_tables;8;db/campaign_mounts_tables/astroliche_+							
+wh_main_cam_mnt_vmp_barded_skeletal_steed	cam_hr1_warhorse	wh_vmp_barded_skeletal_steed_campaign	1.0000	wh_main_vo_culture_Skeletal_horse	true	0	false
+wh_main_cam_mnt_vmp_hellsteed	cam_hr1_pegasus	wh_vmp_hellsteed_campaign	1.0000	wh_main_vo_culture_Pegasus	false	0	false
+astro_necrocoil	cam_wm_wh3_skylantern	jiang_necro_coil	0.4000	wh_main_vo_culture_Vampire	true	0	false
+astro_undead_horse	cam_hr1_warhorse	jiang_astro_steed	1.0000	wh_main_vo_culture_Skeletal_horse	true	0	false
+astro_undead_longma	cam_hr1_pegasus	jiang_longma	1.0000	wh_main_vo_culture_Skeletal_horse	false	0	false
+jade_skeletal_barded	cam_hr1_warhorse	jiang_astro_steed	1.0000	wh_main_vo_culture_Skeletal_horse	true	0	false
+jade_hellsteed	cam_hr1_pegasus	jiang_longma	1.0000	wh_main_vo_culture_Skeletal_horse	false	0	false

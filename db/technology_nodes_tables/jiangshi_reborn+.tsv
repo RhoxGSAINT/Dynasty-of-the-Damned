@@ -1,0 +1,14 @@
+key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
+#technology_nodes_tables;0;db/technology_nodes_tables/jiangshi_reborn+														
+wh_main_tech_vmp_jiangshi_01		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_01	vmp_mil	5	200	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_02		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_02	vmp_mil	6	300	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_03		wh3_dlc21_vmp_jiangshi_rebels	1	wh_main_tech_vmp_jiangshi_03	vmp_mil	6	300	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_04		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_04	vmp_mil	7	400	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_05		wh3_dlc21_vmp_jiangshi_rebels	-1	wh_main_tech_vmp_jiangshi_05	vmp_mil	7	400	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_06		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_06	vmp_mil	8	700	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_07		wh3_dlc21_vmp_jiangshi_rebels	1	wh_main_tech_vmp_jiangshi_07	vmp_mil	8	800	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_08		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_08	vmp_mil	9	1200	0	0			0	0	0
+wh_main_tech_vmp_jiangshi_09		wh3_dlc21_vmp_jiangshi_rebels	0	wh_main_tech_vmp_jiangshi_09	vmp_mil	10	1500	0	0			0	0	0
+wh_main_tech_vmp_jiang_06A		wh3_dlc21_vmp_jiangshi_rebels	5	wh_main_tech_vmp_jiang_06A	vmp_mil	8	1200	0	0			0	0	0
+wh_main_tech_vmp_jiang_12		wh3_dlc21_vmp_jiangshi_rebels	7	wh_main_tech_vmp_jiang_12	vmp_mil	10	1500	0	0			0	0	0
+wh_main_tech_vmp_jiang_09A		wh3_dlc21_vmp_jiangshi_rebels	5	wh_main_tech_vmp_jiang_09A	vmp_mil	10	1200	0	0			0	0	0

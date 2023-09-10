@@ -1,0 +1,28 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/hu1e_cth_black_knight_base.variantmeshdefinition" />
+	</SLOT>
+
+	<SLOT name="weapon_1" attach_point="weapon_1" />
+	<SLOT name="weapon_2" attach_point="weapon_2" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/vmp_grave_guards_sword_set1.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="weapon_3" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_01.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_02.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_03.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_4" attach_point="weapon_4" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/jiang_gg_crossbows.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_5" attach_point="weapon_5" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1e/cth/cth_props/cth_jade_warrior_crossbow_bolt_01.wsmodel" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_6" attach_point="weapon_6" />
+
+</VARIANT_MESH>

@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/jiang_ancillaries.loc		
+ancillaries_colour_text_jiang_vmp_yuwei_lord_zombie_dragon	The great Ice Drake felled by Greasus Goldtooth that earned him the title 'Drakecrush', Yuwei Xiaolin encountered his bones and rotten corpse during his travels. Now he rides him to war.	false
+ancillaries_onscreen_name_jiang_vmp_yuwei_lord_zombie_dragon	Jaugrel, the Nights Chill	false
+ancillaries_colour_text_astro_necrocoil	The unholy combination of warp-tech, cathayan engineering and absolute insanity has created an unstable instrument of death.	false
+ancillaries_onscreen_name_astro_necrocoil	Necro-Coil	false
+ancillaries_colour_text_astro_barbed_skele_steed	Only bones remain of their mortal forms, protected from attack by barding. 	false
+ancillaries_onscreen_name_astro_barbed_skele_steed	Barded Skeletal Steed	false
+ancillaries_colour_text_astro_hellsteed	Driven mad by the stench of blood, they are eager to trample their prey into the dirt.	false
+ancillaries_onscreen_name_astro_hellsteed	Undead Longma	false
+ancillaries_colour_text_jade_skeletal_barded	Barded Skeletal Steed	false
+ancillaries_onscreen_name_jade_skeletal_barded	Only bones remain of their mortal forms, protected from attack by barding. 	false
+ancillaries_colour_text_jade_hellsteed	Undead Longma	false
+ancillaries_onscreen_name_jade_hellsteed	Driven mad by the stench of blood, they are eager to trample their prey into the dirt.	false
+ancillaries_onscreen_name_ancient_sacrifical_dagger	Ancient Sacrifical Dagger	false
+ancillaries_colour_text_ancient_sacrifical_dagger	Deep within the catacombs of a ruin monestary, an artifact of great power lay hidden away. A bone holted dagger, adorned with intircate runes and symbols of dark magic, this unholy weapon was once used in forbidden and long thought forgotten rituals where the blood of the living was used to awaken the slumbering dead.	false
+ancillaries_explanation_text_ancient_sacrifical_dagger		false
+effects_description_bm_theak_effect_enable_item_passive_the_forbidden_tome	Unit Passive: The Forbidden Tome	false
+special_ability_phases_onscreen_name_bm_theak_item_passive_the_forbidden_tome	Forbidden Knowledge!	false
+ancillaries_onscreen_name_the_forbidden_tomes	The Forbidden Tome	false
+ancillaries_colour_text_the_forbidden_tomes	Hidden within the Celestial Dragon King's court lies a forbidden tome, sealed for centuries within it's most protected of vaults. Rumored to contain the darkest secrets of necromancy, the ancient texts speak of it's ability to reveal the location of a powerful artifact, capable of enhancing the dark rites, and granting its wielder the power to control the undead.	false
+ancillaries_explanation_text_the_forbidden_tomes		false
+unit_abilities_tooltip_text_bm_theak_item_passive_the_forbidden_tome		false
+unit_abilities_onscreen_name_bm_theak_item_passive_the_forbidden_tome	The Forbidden Tome	false

@@ -1,0 +1,8 @@
+id	mission_key	option_key	value	target
+#cdir_events_mission_option_junctions_tables;2;db/cdir_events_mission_option_junctions_tables/dynasty_of_the_damned				
+2146956039	bm_theak_qb_tome	GEN_TARGET_CHARACTER		default
+2146956040	bm_theak_qb_tome	VAR_CHANCE	100	default
+2146956041	bm_theak_qb_tome	VAR_MISSION_LENGTH_INFINITE		default
+2146956043	bm_theak_qb_dagger	GEN_TARGET_CHARACTER		default
+2146956044	bm_theak_qb_dagger	VAR_CHANCE	100	default
+2146956045	bm_theak_qb_dagger	VAR_MISSION_LENGTH_INFINITE		default

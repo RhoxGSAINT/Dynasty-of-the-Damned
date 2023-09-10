@@ -1,0 +1,6 @@
+key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	building_superchain	optional_tier_icon	optional_sort_order	optional_required_horde_commander	can_be_dismantled
+#building_chains_tables;9;db/building_chains_tables/dust_vmp_cth_dynasty									
+dust_cult_vmp_cth_foreign_corruption			money	false	dust_cult_vmp_cth_foreign_corruption		2		true
+dust_cult_vmp_cth_foreign_zombie_army			money	false	dust_cult_vmp_cth_foreign_zombie_army		1		true
+dust_cult_vmp_cth_foreign_income			money	false	dust_cult_vmp_cth_foreign_income		3		true
+dust_cult_vmp_cth_foreign_sac_raze			money	false	dust_cult_vmp_cth_foreign_sac_raze		4		true

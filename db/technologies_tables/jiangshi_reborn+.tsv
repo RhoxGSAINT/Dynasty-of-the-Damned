@@ -1,0 +1,14 @@
+key	building_level	position_index	icon_name	mp_available_early	mp_available_late	info_pic	unique_index	is_civil	is_engineering	is_military	is_hidden
+#technologies_tables;7;db/technologies_tables/jiangshi_reborn+											
+wh_main_tech_vmp_jiangshi_01	wh_main_chs_port_ruin	1	forbidden_resilience	false	false		635499	false	false	true	false
+wh_main_tech_vmp_jiangshi_02	wh_main_chs_port_ruin	1	inexorable_warriors	false	false		636399	false	false	true	false
+wh_main_tech_vmp_jiangshi_03	wh_main_chs_port_ruin	1	sinew_crossbow_strings	false	false		637199	false	false	true	false
+wh_main_tech_vmp_jiangshi_04	wh_main_chs_port_ruin	1	death_chill_halberds	false	false		637599	false	false	true	false
+wh_main_tech_vmp_jiangshi_05	wh_main_chs_port_ruin	1	ghost_swarm	false	false		637799	false	false	true	false
+wh_main_tech_vmp_jiangshi_06	wh_main_chs_port_ruin	1	cursed_munitions	false	false		637899	false	false	true	false
+wh_main_tech_vmp_jiangshi_07	wh_main_chs_port_ruin	1	flayed_skin_sails	false	false		638299	false	false	true	false
+wh_main_tech_vmp_jiangshi_08	wh_main_chs_port_ruin	1	bale_fire_elementals	false	false		639099	false	false	true	false
+wh_main_tech_vmp_jiangshi_09	wh_main_chs_port_ruin	1	necromantic_shields	false	false		639499	false	false	true	false
+wh_main_tech_vmp_jiang_06A	wh_main_chs_port_ruin	1	longma_dead	false	false		639500	false	false	true	false
+wh_main_tech_vmp_jiang_12	wh_main_chs_port_ruin	1	cathay_friends	false	false		639501	false	false	true	false
+wh_main_tech_vmp_jiang_09A	wh_main_chs_port_ruin	1	jiangshi_reign	false	false		639502	false	false	true	false

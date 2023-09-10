@@ -1,0 +1,4 @@
+key	mission_type	localised_title	localised_description	ui_image	ui_icon	generate	prioritised	event_category	set_piece_battle	location_x	location_y	quest_mission	quest_mission_final	trigger_radius	quest_character	sticky_by_default	localised_mission_completed_text	can_be_manually_cancelled
+#missions_tables;0;db/missions_tables/dynasty_of_the_damned																		
+bm_theak_qb_tome	FIGHT_SET_PIECE_BATTLE	The Forbidden Tome		cth/generic	rom_event_mission.png	false	false	Quest	bm_theak_qb_tome	1270	616	true	true	10.0000		true		false
+bm_theak_qb_dagger	FIGHT_SET_PIECE_BATTLE	Anicent sacrifical Dagger		cth/generic	rom_event_mission.png	false	false	Quest	bm_theak_qb_dagger	1248	532	true	true	10.0000		true		false

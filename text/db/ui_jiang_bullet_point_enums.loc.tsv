@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/ui_jiang_bullet_point_enums.loc		
+ui_unit_bullet_point_enums_onscreen_name_unstable_necromancy	Unstable Necromancy	false
+ui_unit_bullet_point_enums_tooltip_unstable_necromancy	Using warpstone to increase the effectiveness of necromancy in raising zombies makes them likely to explode with a discharge of Necromantic energy when destroyed.	false
+ui_unit_bullet_point_enums_onscreen_name_aura_lost_souls	It's Alive!!!!	false
+ui_unit_bullet_point_enums_tooltip_aura_lost_souls	The lightning infused with necromantic power has some Frank-ly impressive results...	false
+ui_unit_bullet_point_enums_onscreen_name_necro_coilzzap	Necro-Coil Storm	false
+ui_unit_bullet_point_enums_tooltip_necro_coilzzap	A necromantic lighning storm surrounds this unit damaging nearby enemies and ressurecting the undeadQ	false

@@ -1,0 +1,16 @@
+key	text	tooltip
+#Loc;1;text/db/jiangshi_reborn_effect_bundles.loc		
+effect_bundles_localised_description_jiangshi_rebels_bundle	Descendants of Harakhte. "Forbidden" is a word for fools	true
+effect_bundles_localised_title_jiangshi_rebels_bundle	Scions of Harakhte	true
+effect_bundles_localised_title_stance_feast_on_locals	Stance: Feast on the Locals	true
+effect_bundles_localised_description_stance_feast_on_locals	For the undead, consumption of the living is regenerative, it also provides bodies to fill the ranks fo the damned....	true
+effect_bundles_localised_title_stance_graverobbing	Stance: Graverob	true
+effect_bundles_localised_description_stance_graverobbing	Plundering tombs and other burial places provides unique weapons, armour, and all sorts of valuable corpsley commodities. 	true
+effect_bundles_localised_description_ritual_unshackled_spirits	Necromancers have released their hold of spirits en masse. They are now loose and spreading wanton violence.	false
+effect_bundles_localised_description_ritual_call_the_night	The Tribunal of Night performs the abominable "Ritual of True Night" by calling upon the combined Lores of Vampires, Yin and Dark to spread a fog of darkness across the land.	false
+effect_bundles_localised_description_ritual_tenuos_pacts	The borders have opened for mortals to sell their wears, we must refrain from killing... too many of them if we want to maintain good relations.	false
+effect_bundles_localised_description_ritual_arboreonecromantics	 The trees groan and a monstrosity of warped wood and fused bodies merges from the darkness. We command these desecrated woods for now...	false
+effect_bundles_localised_title_ritual_unshackled_spirits	Ritual of Spirit Unshackling	false
+effect_bundles_localised_title_ritual_call_the_night	Ritual of Blackest Night	false
+effect_bundles_localised_title_ritual_tenuos_pacts	Ritual of Tenuous Pacts	false
+effect_bundles_localised_title_ritual_arboreonecromantics	Ritual of Arboreonecromany 	false

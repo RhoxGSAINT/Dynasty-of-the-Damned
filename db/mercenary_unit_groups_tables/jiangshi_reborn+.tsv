@@ -1,0 +1,25 @@
+key	chance_to_replenish	max_count	unit_record	use_partial_replenishment	max_replenish_per_turn
+#mercenary_unit_groups_tables;2;db/mercenary_unit_groups_tables/jiangshi_reborn+					
+jiang_damned_cannon	0.0000	0	jiang_damned_cannon	false	1.0000
+jiang_grave_guard_crossbow	0.1000	0	jiang_grave_guard_crossbow	false	1.0000
+jiang_grave_guard_halberd	0.1000	0	jiang_grave_guard_halberd	false	1.0000
+jiang_shadow_lantern	0.0000	0	jiang_shadow_lantern	false	1.0000
+jiang_zombie_longspear	0.3500	6	jiang_zombie_longspear	false	3.0000
+jiang_zombie_reg	0.3500	6	jiang_zombie_reg	false	3.0000
+jiang_zombie_archer	0.3500	6	jiang_zombie_archer	false	1.0000
+jiang_necro_mortar	0.0000	0	jiang_necro_mortar	false	0.0000
+wh2_dlc11_cst_mon_mournguls_ror_0	100.0000	1	wh2_dlc11_cst_mon_mournguls_ror_0	true	0.1000
+wh_dlc04_vmp_cav_chillgheists_0	100.0000	1	wh_dlc04_vmp_cav_chillgheists_0	true	0.1000
+wh_dlc04_vmp_cav_vereks_reavers_0	100.0000	1	wh_dlc04_vmp_cav_vereks_reavers_0	true	0.1000
+wh_dlc04_vmp_inf_feasters_in_the_dusk_0	100.0000	1	wh_dlc04_vmp_inf_feasters_in_the_dusk_0	true	0.1000
+wh_dlc04_vmp_inf_konigstein_stalkers_0	100.0000	1	wh_dlc04_vmp_inf_konigstein_stalkers_0	true	0.1000
+wh_dlc04_vmp_inf_sternsmen_0	100.0000	1	wh_dlc04_vmp_inf_sternsmen_0	true	0.1000
+wh_dlc04_vmp_mon_devils_swartzhafen_0	100.0000	1	wh_dlc04_vmp_mon_devils_swartzhafen_0	true	0.1000
+wh_dlc04_vmp_veh_claw_of_nagash_0	100.0000	1	wh_dlc04_vmp_veh_claw_of_nagash_0	true	0.1000
+wh2_dlc11_cst_inf_deck_gunners_ror_0	100.0000	1	wh2_dlc11_cst_inf_deck_gunners_ror_0	true	0.1000
+jiang_shuimu	0.1000	0	jiang_shuimu	false	1.0000
+jiang_longma_undead	0.0000	0	jiang_longma_undead	false	1.0000
+terra_sentinel_vmp	100.0000	1	wh3_twa08_cth_mon_terracotta_sentinel_0_ror	true	0.1000
+jiang_wiltings	0.0000	8	jiang_wiltings	false	0.0000
+jiang_wightkin	0.0000	5	jiang_wightkin	false	0.0000
+jiang_copsewight	0.0000	3	jiang_copsewight	false	0.0000

@@ -1,0 +1,40 @@
+key	text	tooltip
+#Loc;1;text/db/jiangshi_skills.loc		
+character_skills_localised_name_jiang_skill_innate_vmp_scholar_of_forbidden_arts	Scholar of Forbidden Knowledge	true
+character_skills_localised_description_jiang_skill_innate_vmp_scholar_of_forbidden_arts	Knowledge is power and those who are knowledgeable care not for where it comes from.	true
+character_skills_localised_name_jiang_lichdom	Lichdom	true
+character_skills_localised_description_jiang_lichdom	A forbidden right to embrace undeath. Become eternal and leave the bonds of mortality behind.	true
+character_skills_localised_name_jiang_vigorously_animated	Vigorously Animated	true
+character_skills_localised_description_jiang_vigorously_animated	Zombies are terrifying enough, but when they learn how to run, thats when everyone is in trouble.	true
+character_skills_localised_name_jiang_yuwei_unique_zombie_dragon	Jaugrel, the Nights Chill	true
+character_skills_localised_description_jiang_yuwei_unique_zombie_dragon	The great Ice Drake felled by Greasus Goldtooth that earned him the title 'Drakecrush', Yuwei encountered Jaugrels frozen corpse during his travels. Now he rides him to war.	true
+character_skills_localised_name_astro_necrocoil	Necro-Coil	true
+character_skills_localised_description_astro_necrocoil	The unholy combination of warp-tech, cathayan engineering and absolute insanity has created an unstable instrument of death.	true
+character_skills_localised_name_astro_hellsteed	Undead Longma	true
+character_skills_localised_name_astro_barbed_steed	Barded Skeletal Steed	true
+character_skills_localised_name_astro_wave_of_darkness	Wave of Darkness	true
+character_skills_localised_name_astro_lesser_doombolt	Lesser Doombolt	true
+character_skills_localised_name_astro_vigor_mortis	Legion Master	true
+character_skills_localised_name_barrier_astro	Shield of Darkness	true
+character_skills_localised_description_astro_hellsteed	"To me, my winged steed of bone and flesh; let us fly and remake the world together!"	true
+character_skills_localised_description_astro_barbed_steed	Skeletal Steeds draped in fine armour make for an impressive and dangerous sight.	true
+character_skills_localised_description_astro_wave_of_darkness	A wave of congealed darkness steals the heat from all it hits and feeds on life force itself. 	true
+character_skills_localised_description_astro_lesser_doombolt	A bolt of eldritch darkness less complex then those found in Naggaroth.	true
+character_skills_localised_description_astro_vigor_mortis	A leader of the dead, literally, they are of the dead and leading. 	true
+character_skills_localised_description_barrier_astro	A solid shield of darkness may protect the Wight, sword, spear, spell and arrow be turned aside.	true
+character_skills_localised_name_jade_skeletal_barded	Barded Skeletal Steed	true
+character_skills_localised_description_jade_skeletal_barded	Skeletal Steeds draped in fine armour make for an impressive and dangerous sight.	true
+character_skills_localised_name_jade_hellsteed	Undead Longma	true
+character_skills_localised_description_jade_hellsteed	"To me, my winged steed of bone and flesh; let us fly and remake the world together!"	true
+character_skills_localised_name_scroll_of_earth	Pilfered Scroll of Earth 	true
+character_skills_localised_description_scroll_of_earth	"Property of the Esoteric Cabal of Alchemists, the Sanctum of Metal Athenaeum, -Shang-Yang"	true
+character_skills_localised_name_scroll_of_water	Stolen Scroll of Water	true
+character_skills_localised_description_scroll_of_water	"Property of the Grand Order of Astromancy, Grand Celestial Headquarters Librarium, -Wei Jin"	true
+character_skills_localised_name_sheperd_souls	Shepherd of Hungry Souls	true
+character_skills_localised_description_sheperd_souls	"I once felt the harmony of the spirits around me, now all I hear is their torment. I will sharpen that torment and direct it at our enemies."	true
+character_skills_localised_name_will_breaker	Breaker of Will	true
+character_skills_localised_description_will_breaker	"The false dragons no longer hold sway over my soul, I have given it to our blood sire, witness my dark ascension and despair."	true
+character_skills_localised_name_zombies_forward	Mindless Perseverance	true
+character_skills_localised_description_zombies_forward	"They aren't much different in death than life, they still smell and moan quite often..."	true
+character_skills_localised_name_mixed_blood	Vampiric and Draconic	true
+character_skills_localised_description_mixed_blood	The combination of Dragon and Vampire blood has turned the Jade-Blooded Shugengan into a horrible blend of powerful creatures, together their regenerative abilities are volatile.	true

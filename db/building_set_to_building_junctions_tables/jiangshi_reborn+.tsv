@@ -1,0 +1,4 @@
+building_chain	building_level	building_set	exclude
+#building_set_to_building_junctions_tables;0;db/building_set_to_building_junctions_tables/jiangshi_reborn+			
+jiangshi_burial_grounds		wh_main_set_vampire_military_recruitment	false
+jiangshi_dark_conclave		wh_main_set_vampire_military_support	false

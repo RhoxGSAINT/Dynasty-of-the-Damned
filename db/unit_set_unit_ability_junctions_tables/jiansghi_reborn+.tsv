@@ -1,0 +1,8 @@
+key	unit_ability	unit_set
+#unit_set_unit_ability_junctions_tables;0;db/unit_set_unit_ability_junctions_tables/jiansghi_reborn+		
+graveguard_defensive_stance	wh3_main_unit_passive_defensive_stance	vmp_graveguard
+zombie_reflect	vindictive_necromancy	wightking_jiang
+bfe_balefire	wh_dlc04_unit_passive_balefire	jiang_lantern_gg
+gs_fog	bound_fotd	banshee_jiang
+ns_missilemir	bound_mm	vmp_necromancers
+zombie_reflect_mourn	vindictive_necromancy	jiang_haunter

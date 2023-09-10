@@ -1,0 +1,5 @@
+condition_key	subculture_key
+#subculture_conditions_tables;0;db/subculture_conditions_tables/jiangshi_victory+	
+WH3_ACHIEVEMENT_CATHAY_OCCUPY_GREAT_BASTION	jiangshi_subculture
+WH3_ACHIEVEMENT_CATHAY_OCCUPY_WEI_JIN	jiangshi_subculture
+WH3_ACHIEVEMENT_WINNING_CATHAY	jiangshi_subculture

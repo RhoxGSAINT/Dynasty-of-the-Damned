@@ -1,0 +1,21 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/jiangshi_undead+							
+cth_black_knight		cth_black_knight		1.0000	1.0000	0.0000	
+cth_black_knight_base		cth_black_knight_base		1.0000	1.0000	0.0000	
+cth_black_knight_lance		cth_black_knight_lance		1.0000	1.0000	0.0000	
+cth_grave_guard		cth_grave_guard		1.0000	1.0000	0.0000	
+cth_grave_guard_great_weapons		cth_grave_guard_great_weapons		1.0000	1.0000	0.0000	
+cth_skeleton1		cth_skeleton1		1.0000	1.0000	0.0000	
+cth_skeleton_base		cth_skeleton_base		1.0000	1.0000	0.0000	
+cth_skeleton_spearmen		cth_skeleton_spearmen		1.0000	1.0000	0.0000	
+cth_zombiex		cth_zombiex		1.0000	1.0000	0.0000	
+cth_zombie_corpse_cart		cth_zombiex		1.0000	1.0000	0.0500	
+skeleton_cth_oxen		skeleton_cth_oxen		1.0000	1.0000	0.0000	
+jaugrel_dragon	VariantMeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\tech	jaugrel_dragon		1.0000	1.0000	0.0000	
+yuwei_feng_0		yuwei_feng_0		1.0000	1.1500	0.0500	
+wh_vmp_barded_skeletal_steed		jiang_barded_skeletal_steed	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_skeletal_horse_lowlod	1.0000	1.0000	0.0500	
+wh_vmp_barded_skeletal_steed_campaign	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	jiang_barded_skeletal_steed	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_skeletal_horse_lowlod	1.0000	1.0000	0.0000	
+wh_vmp_barded_skeletal_steed_reavers		vmp_barded_skeletal_steed_reavers	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_black_knights_horse_lowlod	1.0000	1.0000	0.0500	
+wh_vmp_skeletal_steed_campaign	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	jiang_skeletal_steed_black	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_skeletal_horse_lowlod	1.0000	1.0000	0.0000	
+wh_vmp_skeletal_steed_black		jiang_skeletal_steed_black	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_skeletal_horse_lowlod	1.0000	1.0000	0.0500	
+jiang_astro_steed	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	jiang_skeletal_steed_black	hr1\vmp\vmp_skeletal_horse\low_poly\vmp_skeletal_horse_lowlod	1.0000	1.0000	0.0000	

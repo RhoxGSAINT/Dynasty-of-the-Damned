@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/cth_skeleton_base.variantmeshdefinition" />
+	</SLOT>
+
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/vmp_skeleton_warriors_sword_set1.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" >
+		
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_01.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_02.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/vmp_jade_warrior_shield_03.wsmodel" >
+			<META_DATA>audio_shield_type:wood</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>

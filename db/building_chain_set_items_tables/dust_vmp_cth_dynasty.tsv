@@ -1,0 +1,6 @@
+chain	set	super_chain	remove
+#building_chain_set_items_tables;0;db/building_chain_set_items_tables/dust_vmp_cth_dynasty			
+dust_cult_vmp_cth_foreign_corruption	wh3_main_foreign_slot_core_generic		false
+dust_cult_vmp_cth_foreign_zombie_army	wh3_main_foreign_slot_core_generic		false
+dust_cult_vmp_cth_foreign_income	wh3_main_foreign_slot_core_generic		false
+dust_cult_vmp_cth_foreign_sac_raze	wh3_main_foreign_slot_core_generic		false

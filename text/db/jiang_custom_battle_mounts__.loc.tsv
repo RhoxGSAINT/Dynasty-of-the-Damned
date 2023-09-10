@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/db/jiang_custom_battle_mounts__.loc		
+units_custom_battle_mounts_mount_name_astroliche_theak_01astroliche_theak_02	Barded Skeletal Steed	true
+units_custom_battle_mounts_mount_name_astroliche_theak_01astroliche_theak_03	Undead Longma	true
+units_custom_battle_mounts_mount_name_astroliche_theak_01astroliche_theak_04	Necro-Coil	true
+units_custom_battle_mounts_mount_name_yuwei_feng_0yuwei_feng_4	Undead Longma	true
+units_custom_battle_mounts_mount_name_yuwei_feng_0yuwei_feng_5	Hellsteed	true
+units_custom_battle_mounts_mount_name_yuwei_feng_0yuwei_zombie_dragon	Jaugrel, the Nights Chill	true
+units_custom_battle_mounts_localised_description_astroliche_theak_01astroliche_theak_02	Only bones remain of their mortal forms, protected from attack by barding. 	true
+units_custom_battle_mounts_localised_description_astroliche_theak_01astroliche_theak_03	Driven mad by the stench of blood, they are eager to trample their prey into the dirt.	true
+units_custom_battle_mounts_localised_description_astroliche_theak_01astroliche_theak_04	The unholy combination of warp-tech, cathayan engineering and absolute insanity has created an unstable instrument of death.	true
+units_custom_battle_mounts_localised_description_yuwei_feng_0yuwei_feng_4	Covered in heavy barding and spikes, to tear the flesh of their foes.	true
+units_custom_battle_mounts_localised_description_yuwei_feng_0yuwei_feng_5	Driven mad by the stench of blood, they are eager to trample their prey into the dirt.	true
+units_custom_battle_mounts_localised_description_yuwei_feng_0yuwei_zombie_dragon	The great Ice Drake felled by Greasus Goldtooth that earned him the title 'Drakecrush', Yuwei Xiaolin encountered his bones and rotten corpse during his travels. Now he rides him to war.	true
+units_custom_battle_mounts_mount_name_jade_blooded_shugengan_01jade_blooded_shugengan_02	Barded Skeletal Steed	true
+units_custom_battle_mounts_mount_name_jade_blooded_shugengan_01jade_blooded_shugengan_03	Undead Longma	true
+units_custom_battle_mounts_localised_description_jade_blooded_shugengan_01jade_blooded_shugengan_02	Only bones remain of their mortal forms, protected from attack by barding. 	true
+units_custom_battle_mounts_localised_description_jade_blooded_shugengan_01jade_blooded_shugengan_03	Driven mad by the stench of blood, they are eager to trample their prey into the dirt.	true

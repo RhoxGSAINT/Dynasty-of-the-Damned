@@ -1,0 +1,10 @@
+base_unit	mounted_unit	icon_name
+#units_custom_battle_mounts_tables;1;db/units_custom_battle_mounts_tables/astroliche_+		
+astroliche_theak_01	astroliche_theak_02	ui/campaign ui/mounts/mount_barded_skeletal_steed.png
+astroliche_theak_01	astroliche_theak_03	ui/campaign ui/mounts/mount_jade_longma.png
+astroliche_theak_01	astroliche_theak_04	ui/campaign ui/mounts/mount_sky_lantern.png
+yuwei_feng_0	yuwei_feng_4	ui/campaign ui/mounts/mount_barded_nightmare.png
+yuwei_feng_0	yuwei_feng_5	ui/campaign ui/mounts/mount_jade_longma.png
+yuwei_feng_0	yuwei_zombie_dragon	ui/campaign ui/mounts/mount_zombie_dragon.png
+jade_blooded_shugengan_01	jade_blooded_shugengan_02	ui/campaign ui/mounts/mount_barded_skeletal_steed.png
+jade_blooded_shugengan_01	jade_blooded_shugengan_03	ui/campaign ui/mounts/mount_jade_longma.png

@@ -1,0 +1,4 @@
+group	stance	composite_scene	composite_movement_start	composite_movement_stop
+#campaign_stances_composite_scenes_tables;0;db/campaign_stances_composite_scenes_tables/jiangshi_reborn+				
+wh_main_stance_csc_vampire_counts	MILITARY_FORCE_ACTIVE_STANCE_TYPE_SET_CAMP	wh2_dlc11_cst_encampment		
+wh_main_stance_csc_vampire_counts	MILITARY_FORCE_ACTIVE_STANCE_TYPE_LAND_RAID	tunnel_stance		

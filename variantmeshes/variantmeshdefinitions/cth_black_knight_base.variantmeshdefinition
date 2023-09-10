@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="head" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\cth_grave_guard_head_01.wsmodel"   />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\cth_grave_guard_head_02.wsmodel"   />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\cth_grave_guard_head_03.wsmodel"   />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\cth_grave_guard_head_04.wsmodel"   />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\head\cth_grave_guard_head_05.wsmodel"   />
+	</SLOT>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\torso\cth_grave_guard_body_01.wsmodel"   >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\torso\cth_grave_guard_body_02.wsmodel"   >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\torso\cth_grave_guard_body_03.wsmodel"   >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\torso\cth_grave_guard_body_04.wsmodel"   >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\vmp\vmp_black_knights\torso\cth_grave_guard_body_05.wsmodel"   >
+			<META_DATA>audio_armour_type:plate</META_DATA>			<META_DATA>audio_entity_type:wh_skeleton</META_DATA></VARIANT_MESH>
+	</SLOT>
+	
+</VARIANT_MESH>

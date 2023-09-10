@@ -1,0 +1,19 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/astroliche_+									
+barrier_astro	barrier_astro.png		Eldritch Magic	12	false	false	false	0.0000	0
+astro_vigor_mortis	astro_vigor_mortis.png		Necromantic Vessel	5	false	false	false	0.0000	0
+astro_lesser_doombolt	wh2_main_spell_dark_magic_doombolt.png		Lesser Doombolt	0	false	false	false	0.0000	0
+astro_wave_of_darkness	wave_of_darkness.png		Wave of Darkness	0	false	false	false	0.0000	0
+enable_dark_jiang_skill	trait_human.png			0	false	false	false	0.0000	0
+astro_barbed_steed	mount_barded_skeletal_steed.png	Skeletal Steeds draped in fine armour make for an impressive and dangerous sight.	Barded Skeletal Steed	7	false	false	false	0.0000	0
+astro_hellsteed	mount_jade_longma.png	"To me, my winged steed of bone and flesh; let us fly and remake the world together!"	Undead Longma	14	false	false	false	0.0000	0
+astro_necrocoil	mount_sky_lantern.png	The unholy combination of warp-tech, cathayan engineering and absolute insanity has created an unstable instrument of death.	Necro-Coil	18	false	false	false	0.0000	0
+jade_skeletal_barded	mount_barded_skeletal_steed.png	Skeletal Steeds draped in fine armour make for an impressive and dangerous sight.	Barded Skeletal Steed	7	false	false	false	0.0000	0
+jade_hellsteed	mount_jade_longma.png	"To me, my winged steed of bone and flesh; let us fly and remake the world together!"	Undead Longma	14	false	false	false	0.0000	0
+scroll_of_earth	wh_dlc05_spell_life_life_bloom.png		Pilfered Scroll of Earth	11	false	false	false	0.0000	0
+scroll_of_water	wh2_dlc11_lore_deeps.png		Stolen Scroll of Water	11	false	false	false	0.0000	0
+sheperd_souls	character_bonus_vs_infantry.png		Engorged Spirits	16	false	false	false	0.0000	0
+will_breaker	willbreaker_shug.png		Breaker of Will	5	false	false	false	0.0000	0
+zombies_forward	battle_speed.png		Mindless Perseverance	18	false	false	false	0.0000	0
+mixed_blood	unholy_rebirth.png		Unstable Blood	25	false	false	false	0.0000	0
+astroliche_dummy_agent_actions	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0

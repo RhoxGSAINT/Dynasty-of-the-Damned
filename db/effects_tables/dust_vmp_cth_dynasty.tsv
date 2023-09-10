@@ -1,0 +1,6 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/dust_vmp_cth_dynasty					
+dust_cult_vmp_cth_effect_create_zombie_army	attribute_undead.png	1	attribute_undead.png	campaign	true
+dust_vmp_cth_cult_zomby_army_effect_campaign_enable_attrition	attrition.png	1	attrition.png	campaign	false
+dust_vmp_cth_cult_zomby_army_effect_army_immunity		0		campaign	false
+dust_vmp_cth_cult_zomby_army_effect_army_damage_mod		0		campaign	false

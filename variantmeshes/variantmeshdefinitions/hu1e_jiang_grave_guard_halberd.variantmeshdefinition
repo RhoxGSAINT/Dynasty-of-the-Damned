@@ -1,0 +1,19 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/hu1e_cth_black_knight_base.variantmeshdefinition" />
+</SLOT>
+	<SLOT name="weapon_1" attach_point="weapon_1" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/20kr_cth_undead_warrior_halberd_2h_01.rigid_model_v2" >
+			<META_DATA>audio_melee_weapon_type:halberd</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/20kr_cth_undead_warrior_halberd_2h_02.rigid_model_v2" >
+			<META_DATA>audio_melee_weapon_type:halberd</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/cth/cth_props/20kr_cth_undead_warrior_halberd_2h_03.rigid_model_v2" >
+			<META_DATA>audio_melee_weapon_type:halberd</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="weapon_2" />
+	<SLOT name="weapon_3" attach_point="weapon_3" />
+	<SLOT name="weapon_4" attach_point="weapon_4" />
+	<SLOT name="weapon_5" attach_point="weapon_5" />
+	<SLOT name="weapon_6" attach_point="weapon_6" />
+</VARIANT_MESH>
+

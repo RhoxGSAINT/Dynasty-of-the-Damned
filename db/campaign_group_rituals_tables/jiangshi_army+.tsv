@@ -1,0 +1,6 @@
+campaign_group	ritual	unlock_mission	unlock_turn	initially_unlocked
+#campaign_group_rituals_tables;1;db/campaign_group_rituals_tables/jiangshi_army+				
+jiangshi_rituals	ritual_arboreonecromantics		0	false
+jiangshi_rituals	ritual_call_the_night		0	false
+jiangshi_rituals	ritual_tenuos_pacts		0	false
+jiangshi_rituals	ritual_unshackled_spirits		0	false

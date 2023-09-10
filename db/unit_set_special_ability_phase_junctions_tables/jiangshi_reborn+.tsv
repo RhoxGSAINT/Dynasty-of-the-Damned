@@ -1,0 +1,4 @@
+key	special_ability_phase	unit_set
+#unit_set_special_ability_phase_junctions_tables;0;db/unit_set_special_ability_phase_junctions_tables/jiangshi_reborn+		
+iw_frostbite	wh3_main_unit_contact_frostbite_upgraded	frost_halberds
+cm_disrupt	wh2_dlc11_unit_contact_disrupted	jiang_cannon_gg

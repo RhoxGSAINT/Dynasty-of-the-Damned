@@ -1,0 +1,7 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/astroliche_+		
+astro_barbed_steed	7	1
+astro_hellsteed	14	1
+astro_necrocoil	18	1
+jade_skeletal_barded	7	1
+jade_hellsteed	14	1

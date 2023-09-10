@@ -1,0 +1,5 @@
+bonus_value_id	effect	unit_set_ability
+#effect_bonus_value_unit_set_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_set_unit_ability_junctions_tables/jiangshi_reborn+		
+enable	graveguard_defensive_stance	graveguard_defensive_stance
+enable	zombie_reflect	zombie_reflect
+enable	zombie_reflect	zombie_reflect_mourn

@@ -1,0 +1,3 @@
+bonus_value_id	effect	scripted_record
+#effect_bonus_value_scripted_junctions_tables;0;db/effect_bonus_value_scripted_junctions_tables/dust_vmp_cth_dynasty		
+value	dust_cult_vmp_cth_effect_create_zombie_army	dust_cult_vmp_cth_create_zombie_army

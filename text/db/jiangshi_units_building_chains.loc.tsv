@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/jiangshi_units_building_chains.loc		
+building_chains_chain_tooltip_jiangshi_burial_grounds	Dynastic Burial Sites	true
+building_chains_encyclopedia_name_jiangshi_burial_grounds	Dynastic Burial Sites	false
+building_chains_encyclopedia_description_jiangshi_burial_grounds		false
+building_chains_chain_tooltip_jiangshi_dark_conclave	Institute of Forbidden Magic	true
+building_chains_encyclopedia_name_jiangshi_dark_conclave	Institute of Forbidden Magic	false
+building_chains_encyclopedia_description_jiangshi_dark_conclave		false

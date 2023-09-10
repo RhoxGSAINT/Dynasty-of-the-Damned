@@ -1,0 +1,18 @@
+child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
+#character_skill_node_links_tables;3;db/character_skill_node_links_tables/astroliche_+							
+jiang_astroliche_magic_1_1	jiang_astroliche_magic_0	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_1_2	jiang_astroliche_magic_0	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_1_3	jiang_astroliche_magic_0	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_1_4	jiang_astroliche_magic_0	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_2	jiang_astroliche_magic_1_1	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_2	jiang_astroliche_magic_1_2	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_2	jiang_astroliche_magic_1_3	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_2	jiang_astroliche_magic_1_4	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_3_1	jiang_astroliche_magic_2	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_3_2	jiang_astroliche_magic_2	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_3_3	jiang_astroliche_magic_2	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_3_4	jiang_astroliche_magic_2	0	1	1	0.0000	0.0000	REQUIRED
+jiang_astroliche_magic_4	jiang_astroliche_magic_3_1	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_4	jiang_astroliche_magic_3_2	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_4	jiang_astroliche_magic_3_3	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+jiang_astroliche_magic_4	jiang_astroliche_magic_3_4	0	1	1	0.0000	0.0000	SUBSET_REQUIRED

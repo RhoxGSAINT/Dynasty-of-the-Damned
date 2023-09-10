@@ -1,0 +1,38 @@
+key	text	tooltip
+#Loc;1;text/db/!!!dynasty_of_the_damned_qb.loc		
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_battle_player_tome	Dynasty of the Damned	false
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_army_01_tome	Celestial Loyalists	false
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_army_rein_01_tome	Celestial Loyalists	false
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_battle_player_dagger	Dynasty of the Damned	false
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_army_01_dagger	Celestial Monks	false
+battle_set_piece_armies_army_onscreen_name_theak_stage_1_army_01_dagger_rein_01	Celestial Loyalist Reinforcements	false
+battle_set_piece_armies_army_onscreen_name_theak_1_army_rein_02_tome	Celestial Loyalists	false
+battle_set_piece_armies_army_onscreen_name_theak_1_army_rein_02_dagger	Celestial Monks Reinforcements	false
+battle_set_pieces_localised_name_bm_theak_qb_dagger	That Which Was Thought Safe	false
+battle_set_pieces_localised_description_bm_theak_qb_dagger	Yall betta hide yo kids and hide yo wife	false
+scripted_subtitles_localised_text_dagger_qb_pt_01	hey	false
+scripted_subtitles_localised_text_dagger_qb_pt_02	hey you	false
+scripted_subtitles_localised_text_dagger_qb_pt_03	get muh knife	false
+missions_localised_title_bm_theak_qb_dagger	That Which Was Thought Safe	false
+missions_localised_description_bm_theak_qb_dagger	Yall betta hide yo kids and hide yo wife	false
+battle_set_pieces_localised_name_bm_theak_qb_tome	Celestial Arrognace	false
+battle_set_pieces_localised_description_bm_theak_qb_tome	The beeg lizard hide cool book	false
+scripted_subtitles_localised_text_tome_qb_pt_01	psst	false
+scripted_subtitles_localised_text_tome_qb_pt_02	pssssttt	false
+scripted_subtitles_localised_text_tome_qb_pt_03	*gestures vaguley*	false
+missions_localised_title_bm_theak_qb_tome	Celestial Arrognace	false
+missions_localised_description_bm_theak_qb_tome	The beeg lizard hide cool book	false
+scripted_objectives_localised_text_tome_objective	protect the masta cool new book stupid dead bois	false
+scripted_objectives_localised_text_tome_objective_1_hint	The loyalists give chase! Cut them off at the crossing before they can properly mass for an attack!	false
+scripted_objectives_localised_text_loyalist_forces_low_hint	The loyalists numbers dwindle under the weight of the dead.	false
+scripted_objectives_localised_text_monk_encounter_objective	masta want shawp knife. go bite bald men blocking way.	false
+scripted_objectives_localised_text_monk_hint_objective	The Anchorites seek to hinder our progress! Cut them down. 	false
+scripted_objectives_localised_text_monk_attack_minions	They levy peasants from the surrounding country side? Kill the fools and we shall add them to our numbers!	false
+scripted_objectives_localised_text_monk_casualties_1	The Anchorites forces begin to crumble beneath the unending tide of dead!	false
+scripted_objectives_localised_text_monk_rein_arrival_1	Bah! The Anchorites must have sent for aid.. No matter! Destory the Loyalist forces.	false
+scripted_objectives_localised_text_monk_casualties_2	The Loyalists die in droves victory must surely be near!	false
+scripted_objectives_localised_text_monk_rein_arrival_2	The last of the Anchorite's order have taken to the battlefield! Wipe their order from the face of history.	false
+scripted_objectives_localised_text_monk_reinforcements_attack	Brace for attack!	false
+special_ability_phases_onscreen_name_bloody_confluence	Blood Saturates The Earth	false
+unit_abilities_tooltip_text_bloody_confluence		false
+unit_abilities_onscreen_name_bloody_confluence	Bloody Confluence	false

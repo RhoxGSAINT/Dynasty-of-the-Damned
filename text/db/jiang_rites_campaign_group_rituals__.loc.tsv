@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/jiang_rites_campaign_group_rituals__.loc		
+campaign_group_rituals_unlock_text_jiangshi_ritualsritual_arboreonecromantics	[[col:dark_g]]This rite will unlock after constructing a Necromancer's Tower.[[/col]]	true
+campaign_group_rituals_unlock_text_jiangshi_ritualsritual_call_the_night	[[col:dark_g]]This rite will unlock reaching rank 10 with any character.[[/col]]	true
+campaign_group_rituals_unlock_text_jiangshi_ritualsritual_tenuos_pacts	[[col:dark_g]]This rite will unlock after performing an action with a Necromancer.[[/col]]	true
+campaign_group_rituals_unlock_text_jiangshi_ritualsritual_unshackled_spirits	[[col:dark_g]]This rite will unlock after constructing an Binding Circle lvl 3.[[/col]]	true

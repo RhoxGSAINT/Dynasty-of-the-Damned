@@ -1,0 +1,6 @@
+bonus_value_id	effect	subtype
+#effect_bonus_value_agent_subtype_junctions_tables;0;db/effect_bonus_value_agent_subtype_junctions_tables/astroliche_+		
+availability	astroliche_enable	astroliche_theak_01
+cap	astroliche_recruitment	astroliche_theak_01
+recruitment_level	astroliche_rank	astroliche_theak_01
+availability	theak_bm_mounrgul_haunter_fun_tyme	wh2_dlc11_cst_mourngul

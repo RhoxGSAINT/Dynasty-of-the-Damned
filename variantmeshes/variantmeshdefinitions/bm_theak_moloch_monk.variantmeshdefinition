@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body.wsmodel"  >
+			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>			
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body2.wsmodel"  >
+	       	<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>		
+	    <VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body3.wsmodel"  >
+	       	<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>			
+	</SLOT>
+		<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_head2.wsmodel"  >
+			<META_DATA>audio_entity_type:wh3_cth_human_male</META_DATA></VARIANT_MESH>		
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_head3.wsmodel"  >
+	       	<META_DATA>audio_entity_type:wh3_cth_human_male</META_DATA></VARIANT_MESH>	
+	</SLOT>
+</VARIANT_MESH>

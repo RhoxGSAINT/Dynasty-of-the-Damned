@@ -1,0 +1,4 @@
+agent_subtype	ancillary	rank	instant	is_quest_battle
+#character_ancillary_quest_ui_details_tables;2;db/character_ancillary_quest_ui_details_tables/dynasty_of_the_damned				
+jiang_xiu_necro	the_forbidden_tomes	10	false	true
+jiang_xiu_necro	ancient_sacrifical_dagger	18	false	true

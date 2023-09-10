@@ -1,0 +1,7 @@
+key	agent	culture	associated_unit	season	level	agent_recruited_movie	gender	icon	small_icon	recruitable_in_ui
+#agent_culture_details_tables;9;db/agent_culture_details_tables/jiang_reborn+										
+14949494	general	wh_main_damned_dynasty	wh_main_vmp_cha_master_necromancer_0		0		m			true
+14949495	wizard	wh_main_damned_dynasty	wh_main_vmp_cha_necromancer_0		0		m		ui/campaign ui/agents/wh_main_lore_vampires.png	true
+14949496	spy	wh_main_damned_dynasty	wh_main_vmp_cha_banshee		0		f		ui/campaign ui/agents/wh_main_vmp_spy.png	true
+14949497	dignitary	wh_main_damned_dynasty	astroliche_theak_01		0		f		ui/campaign ui/agents/wh2_main_lore_dark_magic.png	true
+14949498	general	wh_main_damned_dynasty	jade_blooded_shugengan_01		0		f		ui/campaign ui/agents/wh3_main_lore_yin.png	true

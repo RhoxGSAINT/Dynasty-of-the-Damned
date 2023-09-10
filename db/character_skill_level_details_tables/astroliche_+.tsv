@@ -1,0 +1,15 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/astroliche_+						
+		1	astro_barbed_steed		x	6
+		1	astro_hellsteed		x	13
+		1	astro_vigor_mortis		x	5
+		1	barrier_astro		x	12
+		1	astro_necrocoil		x	19
+		1	scroll_of_earth		x	10
+		1	scroll_of_water		x	10
+		1	sheperd_souls		x	15
+		1	will_breaker		x	4
+		1	zombies_forward		x	17
+		1	mixed_blood		x	24
+		1	jade_skeletal_barded		x	6
+		1	jade_hellsteed		x	13

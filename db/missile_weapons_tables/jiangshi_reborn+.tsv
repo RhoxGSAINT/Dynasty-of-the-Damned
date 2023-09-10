@@ -1,0 +1,9 @@
+key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
+#missile_weapons_tables;11;db/missile_weapons_tables/jiangshi_reborn+				
+damned_cannon_missile	false	jian_damned_cannon	grand_cannon	false
+balefire_shaft	false	balefire_shaft	crossbow	false
+zombie_shaft	false	zombie_shaft	bow	false
+zombie_shaft_corpse	false	zombie_shaft_corpse	bow	false
+jiang_necro_mortar	false	necro_mortar	mortar	false
+zombie_shaft_corpse_alt	false	zombie_shaft_corpse	bow	true
+balefire_shaft_alt	false	balefire_shaft	crossbow	true

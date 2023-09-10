@@ -1,0 +1,6 @@
+building_chain	building_level	building_set	exclude
+#building_set_to_building_junctions_tables;0;db/building_set_to_building_junctions_tables/dust_vmp_cth_dynasty			
+dust_cult_vmp_cth_foreign_corruption		dust_cult_vmp_cth_set_cult	false
+dust_cult_vmp_cth_foreign_zombie_army		dust_cult_vmp_cth_set_cult	false
+dust_cult_vmp_cth_foreign_income		dust_cult_vmp_cth_set_cult	false
+dust_cult_vmp_cth_foreign_sac_raze		dust_cult_vmp_cth_set_cult	false

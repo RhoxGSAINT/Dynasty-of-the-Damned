@@ -1,0 +1,13 @@
+faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
+#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/astroliche_+										
+custom_battle_vmp_jiangshi_rebels	false	astroliche_theak_01	true	true	ui/portraits/portholes/no_culture/astroliche_theak_01.png	astroliche_theak_01	astroliche_theak_01	false		false
+custom_battle_vmp_jiangshi_rebels	true	yuwei_feng_0	true	true	ui/portraits/portholes/no_culture/yuwei_feng_0.png	yuwei_feng_0	jiang_xiu_necro	false		false
+custom_battle_vmp_jiangshi_rebels	false	astroliche_theak_02	true	true	ui/portraits/portholes/no_culture/astroliche_theak_01.png	astroliche_theak_01	astroliche_theak_01	false		false
+custom_battle_vmp_jiangshi_rebels	false	astroliche_theak_03	true	true	ui/portraits/portholes/no_culture/astroliche_theak_01.png	astroliche_theak_01	astroliche_theak_01	false		false
+custom_battle_vmp_jiangshi_rebels	false	astroliche_theak_04	true	true	ui/portraits/portholes/no_culture/astroliche_theak_01.png	astroliche_theak_01	astroliche_theak_01	false		false
+custom_battle_vmp_jiangshi_rebels	true	yuwei_feng_4	true	true	ui/portraits/portholes/no_culture/yuwei_feng_0.png	yuwei_feng_0	jiang_xiu_necro	false		false
+custom_battle_vmp_jiangshi_rebels	true	yuwei_feng_5	true	true	ui/portraits/portholes/no_culture/yuwei_feng_0.png	yuwei_feng_0	jiang_xiu_necro	false		false
+custom_battle_vmp_jiangshi_rebels	true	yuwei_zombie_dragon	true	true	ui/portraits/portholes/no_culture/yuwei_feng_0.png	yuwei_feng_0	jiang_xiu_necro	false		false
+custom_battle_vmp_jiangshi_rebels	true	jade_blooded_shugengan_01	true	true	ui/portraits/portholes/no_culture/jade_shugengan_01.png	jade_shugengan_01	jade_shugengan_01	false		false
+custom_battle_vmp_jiangshi_rebels	true	jade_blooded_shugengan_02	true	true	ui/portraits/portholes/no_culture/jade_shugengan_01.png	jade_shugengan_01	jade_shugengan_01	false		false
+custom_battle_vmp_jiangshi_rebels	true	jade_blooded_shugengan_03	true	true	ui/portraits/portholes/no_culture/jade_shugengan_01.png	jade_shugengan_01	jade_shugengan_01	false		false

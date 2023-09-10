@@ -1,0 +1,11 @@
+group_key	unit_key	quality
+#cdir_military_generator_unit_qualities_tables;1;db/cdir_military_generator_unit_qualities_tables/astroliche_+		
+wh3_default_land_characters	astroliche_theak_01	10
+wh3_default_land_characters	astroliche_theak_02	10
+wh3_default_land_characters	astroliche_theak_03	10
+wh3_default_land_characters	astroliche_theak_04	10
+wh3_default_land_characters	jade_blooded_shugengan_01	11
+wh3_default_land_characters	jade_blooded_shugengan_02	11
+wh3_default_land_characters	jade_blooded_shugengan_03	11
+Drycha_land_monster	jiang_wiltings	4
+Drycha_land_monster	jiang_wightkin	7

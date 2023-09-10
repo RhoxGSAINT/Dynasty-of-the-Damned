@@ -1,0 +1,9 @@
+unit	military_group
+#units_to_groupings_military_permissions_tables;0;db/units_to_groupings_military_permissions_tables/astroliche_+	
+astroliche_theak_01	wh3_jiangshi_group
+astroliche_theak_02	wh3_jiangshi_group
+astroliche_theak_03	wh3_jiangshi_group
+astroliche_theak_04	wh3_jiangshi_group
+jiang_wightkin	wh3_jiangshi_group
+jiang_wiltings	wh3_jiangshi_group
+bm_theak_moloch_monks	wh3_main_cth

@@ -1,0 +1,6 @@
+formation	sub_culture
+#formations_to_subcultures_tables;0;db/formations_to_subcultures_tables/jiangshi_reborn+	
+test_melee_forward_simple	jiangshi_subculture
+test_missile_forward_simple	jiangshi_subculture
+test_melee_forward_simple	jiangshi_custom
+test_missile_forward_simple	jiangshi_custom

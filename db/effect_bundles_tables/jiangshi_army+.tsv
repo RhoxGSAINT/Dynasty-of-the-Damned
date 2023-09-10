@@ -1,0 +1,6 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/jiangshi_army+								
+ritual_unshackled_spirits	{{tr:ritual_unshackled_spirits_description}}	Curse of Eternal Service	faction	1	effect_rite.png	true	false	true
+ritual_call_the_night	{{tr:ritual_call_the_night_description}}	Curse of the Queen’s Cannon	faction	1	effect_rite.png	true	false	true
+ritual_arboreonecromantics	{{tr:ritual_arboreonecromantics_description}}	Curse of the Sea Mist	faction	1	effect_rite.png	true	false	true
+ritual_tenuos_pacts	{{tr:ritual_tenuos_pacts_description}}	Banner of Ecstacy	faction	1	effect_rite.png	true	false	true

@@ -1,0 +1,38 @@
+key	text	tooltip
+#Loc;1;text/db/jiang_reborn_ability_unit_abilities__.loc		
+unit_abilities_onscreen_name_theak_thick_shadows	Malevolent Shadows	true
+unit_abilities_tooltip_text_theak_thick_shadows	The strong prescense of Ulgu is palpable, it suffocates light and the shadows grow thicker.	true
+unit_abilities_onscreen_name_bound_shadow_pendulum	Shadow Pendulum	true
+unit_abilities_tooltip_text_bound_shadow_pendulum	A spectral pendulum swings, razor sharp and with lethal speed, through the foe.	true
+unit_abilities_onscreen_name_bound_choaking_miasma	Choaking Shadow Miasma	true
+unit_abilities_tooltip_text_bound_choaking_miasma	A confounding fog numbs and deludes enemies, causing them to stumble and stagger.	true
+unit_abilities_onscreen_name_vindictive_necromancy	Vindicitive Necromancy	true
+unit_abilities_tooltip_text_vindictive_necromancy	The Necromancy used to revive the Jiangshi Wight Kings is a volatile magic. It hurts those who try and break this reanimation.	true
+unit_abilities_onscreen_name_bound_fotd	Fog of the Damned	true
+unit_abilities_tooltip_text_bound_fotd	"They'll never know how many we are in this fog… Attack!"	true
+unit_abilities_onscreen_name_bound_mm	Missile Mirror	true
+unit_abilities_tooltip_text_bound_mm	A magical of shifting darkness and howling wind snatches the enemy’s missiles from the air, even as they are fired, and hurls them back at their owners.	true
+unit_abilities_onscreen_name_necromantic_breath	Necrotic Breath	true
+unit_abilities_tooltip_text_necromantic_breath	A twisted breath of corrupted spirirt energy, so potent it dissolves foes to the bone.	true
+unit_abilities_onscreen_name_aura_lost_souls	Reanimation Storm	true
+unit_abilities_tooltip_text_aura_lost_souls	The spirits of the lost flock around this lightning battery, returning unlife to the damned.	true
+unit_abilities_onscreen_name_wave_of_darkness_jiang	Wave of Darkness	true
+unit_abilities_tooltip_text_wave_of_darkness_jiang	A wave of congealed darkness steals the heat from all it hits and feeds on life force itself. 	true
+unit_abilities_onscreen_name_lesser_doombolt_jiang	Lesser Doombolt	true
+unit_abilities_tooltip_text_lesser_doombolt_jiang	A bolt of eldritch darkness less complex then those found in Naggaroth.	true
+unit_abilities_onscreen_name_necro_coil_zap	Necro-Storm Battery	true
+unit_abilities_tooltip_text_necro_coil_zap	The Dusk Wights & Necromancers of Nonchang have made devilish devices that can corrupt the elemental powers with unholy taint.	true
+unit_abilities_onscreen_name_assault_of_stone_bound	Assault of Stone	true
+unit_abilities_tooltip_text_assault_of_stone_bound	Many Mages remember a spell from long ago that could move mountains: the Assault of Stone.	true
+unit_abilities_onscreen_name_krakens_pull_bound	Kraken's Pull	true
+unit_abilities_tooltip_text_krakens_pull_bound	Few have the strength to break free once the Kraken has them within its horrid, betentacled grasp.	true
+unit_abilities_onscreen_name_breaker_of_will_passive	Breaker of Wills	true
+unit_abilities_tooltip_text_breaker_of_will_passive	The Dragons have ruled Cathay for centuries, but no longer, we shall break their will and torment their souls. 	true
+unit_abilities_onscreen_unholy_rebirth_passive	Unholy Rebirth	true
+unit_abilities_tooltip_text_unholy_rebirth_passive	With strange aeons even death may die...	true
+unit_abilities_onscreen_name_army_abilities_summon_the_dead	Summon Zombie Longspears	true
+unit_abilities_tooltip_text_army_abilities_summon_the_dead	“Do not call up that which you cannot put down.” 	true
+unit_abilities_onscreen_name_army_abilities_rite_spirit_eaters	Swarm of Hungry Spirits	true
+unit_abilities_tooltip_text_army_abilities_rite_spirit_eaters	The eternally damned also experience eternal hunger, once released from their bonds they will ravage anything that breathes.	true
+unit_abilities_onscreen_name_army_abilities_total_darkness	Malevolent Darkness	true
+unit_abilities_tooltip_text_army_abilities_total_darkness	“I felt myself on the edge of the world; peering over the rim into a fathomless chaos of eternal night.” 	true

@@ -1,0 +1,12 @@
+phase	stat	value	how
+#special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/jiangshi_reborn_+			
+theak_thick_shadows	stat_accuracy	0.8500	mult
+theak_thick_shadows	scalar_missile_range	0.8500	mult
+theak_thick_shadows	stat_spotting_forest	0.5000	mult
+theak_thick_shadows	stat_spotting_scrub	0.5000	mult
+vindictive_necromancy	stat_damage_reflection	4.0000	add
+will_breaker	stat_morale	-4.0000	add
+army_abilities_total_darkness	scalar_missile_damage_base	0.6000	mult
+army_abilities_total_darkness	stat_accuracy	-40.0000	add
+bloody_confluence	stat_resistance_physical	1.2500	mult
+bloody_confluence	scalar_splash_attack_power	1.3000	mult

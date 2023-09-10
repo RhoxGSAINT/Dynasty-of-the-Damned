@@ -1,0 +1,16 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/jiangshi_unique_lords+					
+jiangshi_mm_ammun	ammo.png	99	ammo.png	battle	true
+jiangshi_mm_reload	icon_stat_reload_time_force.png	55	icon_stat_reload_time_force.png	battle	true
+jiangshi_ps_fatigue	vigour.png	561	vigour.png	battle	false
+jiangshi_ps_armor	armour.png	401	armour.png	battle	true
+jiangshi_sw_range	accuracy.png	531	accuracy.png	battle	true
+jiangshi_sw_speed	battle_movement.png	421	battle_movement.png	battle	true
+jiangshi_sw_mstr	ranged_damage.png	541	ranged_damage.png	battle	true
+effect_summon_jiang_zombies	general_ability.png	705	general_ability.png	battle	true
+effect_unchained_spirit_storm	general_ability.png	705	general_ability.png	battle	true
+effect_total_darkness	general_ability.png	705	general_ability.png	battle	true
+wraith_go_loco	run_amok.png	901	run_amok.png	battle	false
+wraith_go_rage	general_ability.png	903	general_ability.png	battle	true
+wraith_untouched	attribute_contact_immunity.png	904	attribute_contact_immunity.png	battle	true
+wraith_recruit	experience.png	906	experience.png	campaign	true

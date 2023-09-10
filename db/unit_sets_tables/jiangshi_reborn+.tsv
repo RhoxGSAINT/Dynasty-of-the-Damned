@@ -1,0 +1,23 @@
+key	use_unit_exp_level_range	min_unit_exp_level_inclusive	max_unit_exp_level_inclusive	special_category
+#unit_sets_tables;2;db/unit_sets_tables/jiangshi_reborn+				
+jiang_halberd_gg	false	-1	-1	
+jiang_crossbow_gg	false	-1	-1	
+jiang_longspear_gg	false	-1	-1	
+jiang_lantern_gg	false	-1	-1	
+jiang_cannon_gg	false	-1	-1	
+banshee_jiang	false	-1	-1	
+wightking_jiang	false	-1	-1	
+upkeep_increase_units	false	-1	-1	
+jiang_red_zomb	false	-1	-1	
+jiang_dracolith	false	-1	-1	
+jiang_haunter	false	-1	-1	
+jiang_zombo_archer	false	-1	-1	
+jiang_ranged_bows	false	-1	-1	
+jiang_ranged_all	false	-1	-1	
+jiang_ranged_gg	false	-1	-1	
+jiang_ranged_zombos	false	-1	-1	
+crypt_horror_change	false	-1	-1	
+jiang_shuimu	false	-1	-1	
+jiang_longma	false	-1	-1	
+frost_halberds	false	-1	-1	
+jiangshi_dynasty_units	false	-1	-1	

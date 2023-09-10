@@ -1,0 +1,4 @@
+chain	set	super_chain	remove
+#building_chain_set_items_tables;0;db/building_chain_set_items_tables/jiangshi_reborn+			
+jiangshi_burial_grounds	wh3_main_secondary_core_generic_minor	jiangshi_burialground_superchain	false
+jiangshi_dark_conclave	wh3_main_secondary_core_generic_minor	jiangshi_conclave_superchain	false

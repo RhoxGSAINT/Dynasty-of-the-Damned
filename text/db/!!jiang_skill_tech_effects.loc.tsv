@@ -1,0 +1,110 @@
+key	text	tooltip
+#Loc;1;text/db/!!jiang_skill_tech_effects.loc		
+effects_description_graveguard_defensive_stance	Passive ability: "Defensive Stance" for Grave Guard units	false
+effects_description_corpse_cart_elemental_wind	Passive ability: "Mastery of Elemental Winds" for Mortis Engines units & Necromancer Lords & Heroes	false
+effects_description_zombie_upkeep	Upkeep: %+n% for Zombie units	false
+effects_description_graveguard_upkeep	Upkeep: %+n% for Grave Guard units	false
+effects_description_forest_chain_upkeep	No access to Forest Chain Buildings, Beast Technologies or Beast units. Extended roster of Zombies, Grave Guard, and region unique units. 	false
+effects_description_zombie_reflect	Passive ability: "Vindictive Necromancy" for Wight Kings & Mourngul Haunters	false
+effects_description_zombie_leadership	Leadership: %+n for Zombie units	false
+effects_description_zombie_speed	Speed: %+n% for Zombie units	false
+effects_description_liche_fire_res	Fire resistance: %n%	false
+effects_description_liche_phys_res	Physical resistance: %n%	false
+effects_description_fr_mass	Unit mass: %+n% for Zombie units	false
+effects_description_fr_armor	Armour: %+n for Zombie units	false
+effects_description_iw_vigor	Vigour loss reduction: %+n% for Wight Kings and Grave Guard units	false
+effects_description_iw_speed	Speed: %+n% for Grave Guard units	false
+effects_description_scs_range	Range: %+n% for Grave Guard Crossbowmen & Zombie Archer units	false
+effects_description_scs_reload	Reload time reduction: %+n% for Grave Guard Crossbowmen & Zombie Archer units	false
+effects_description_dch_frostbite	Enables frostbite attacks for Risen Longma Riders and Grave Guard (Halberds) units	false
+effects_description_dch_ws	Weapon strength: %+n% for Risen Longma Riders and Grave Guard (Halberds) units	false
+effects_description_cm_curse	Enables disrupting attacks for Damned Cannon & Necro Mortar units	false
+effects_description_cm_rangedmg	Missile strength: %+n% for Damned Cannon & Necro Mortar units	false
+effects_description_gs_barrier	Barrier hit points: %+n for Banshees & Mourngul Haunters	false
+effects_description_gs_fogofdamned	Bound spell: "Fog of the Damned" for Banshees	false
+effects_description_fss_speed	Speed: %+n% for Shadow-Lantern, Shiumu & Dracoleth units	false
+effects_description_fss_mr	Missile resistance: %n% for Shadow-Lantern, Shiumu & Dracoleth units	false
+effects_description_bfe_ability	Passive ability: "Balefire" for Shadow-Lantern units	false
+effects_description_bfe_fr	Fire resistance: %n% for Shadow-Lantern units	false
+effects_description_ns_barrier	Barrier hit points: %+n for Necromancers	false
+effects_description_ns_missile_reflect	Bound spell: "Missile Mirror" for Necromancers	false
+effects_description_jaugrel_mounted	Mount: Jaugrel, the Nights Chill	false
+effects_description_wh2_dlc11_effect_force_stat_magic_resistance_zombies_skeletons_grave_guard_cairn_wraiths_rank7	Spell resistance: %n% for Zombies, Skeletons, Shiumu, Grave Guard, Syreens and Cairn Wraiths units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_melee_attack_zombies_skeletons_grave_guard_cairn_wraiths_rank7	Melee attack: %+n for Zombies, Skeletons, Shiumu, Grave Guard, Syreens and Cairn Wraiths units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_melee_defence_zombies_skeletons_ghouls_grave_guard	Melee defence: %+n for Melee Zombies, Skeletons, Crypt Ghouls and Melee Grave Guard units	false
+effects_description_wh2_dlc11_effect_force_stat_weapon_strength_zombies_skeletons_grave_guard_cairn_wraiths_rank7	Weapon strength: %+n% for Zombies, Skeletons, Grave Guard, Syreens and Cairn Wraiths units {{tr:rank7}}	false
+effects_description_wh2_dlc11_veffect_force_stat_melee_attack_zombies_skeletons_ghouls_grave_guard	Melee attack: %+n for Melee Zombies, Skeletons, Crypt Ghouls and Melee Grave Guard units	false
+effects_description_wh2_dlc11_effect_force_stat_charge_bonus_add_knights_corpse_cart_mortis_engine_black_coach_hexwraiths_rank7	Charge bonus: %+n for Black Coach, Black Knights, Risen Longma Riders , Corpse Cart, Hexwraiths and Mortis Engine units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_magic_resistance_cairn_wraith_hex_wraith	Spell resistance: %n% for Cairn Wraiths, Syreens, Shiumu, Mournguls and Hexwraiths units	false
+effects_description_wh2_dlc11_effect_force_stat_melee_attack_cairn_wraith_hex_wraith	Melee attack: %+n for Cairn Wraiths, Syreens, Shiumu, Mournguls and Hexwraiths units	false
+effects_description_wh2_dlc11_effect_force_stat_ward_save_knights_corpse_cart_mortis_engine_black_coach_hexwraiths_rank7	Ward save: %n% for Black Coach, Black Knights, Risen Longma Riders , Corpse Cart, Hexwraiths and Mortis Engine units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_weapon_strength_knights_corpse_cart_mortis_engine_black_coach_hexwraiths_rank7	Weapon strength: %+n% for Black Coach, Black Knights, Risen Longma Riders , Corpse Cart, Hexwraiths and Mortis Engine units {{tr:rank7}}	false
+effects_description_jiangshi_mm_reload	Reload time reduction: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units	false
+effects_description_jiangshi_mm_ammun	Ammunition: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units	false
+effects_description_jiangshi_sw_mstr	Missile strength: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_sw_speed	Speed: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_sw_range	Range: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_ps_armor	Armour: %+n for Zombie units	false
+effects_description_jiangshi_ps_fatigue	Vigour loss reduction: %+n% for Zombie units	false
+effects_description_wh2_dlc11_effect_force_stat_melee_attack_crypt_horrors_ghouls_dire_wolves_varghulfs_rank7	Melee attack: %+n for Crypt Ghouls, Crypt Horrors, Copsewights and Mournguls units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_physical_resistance_crypt_horrors_ghouls_dire_wolves_varghulfs_rank7	Physical resistance: %n% for Crypt Ghouls, Crypt Horrors, Copsewights and Mournguls units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_weapon_strength_crypt_horrors_ghouls_dire_wolves_varghulfs_rank7	Weapon strength: %+n% for Crypt Ghouls, Crypt Horrors, Copsewights and Mournguls units {{tr:rank7}}	false
+effects_description_wh2_dlc11_effect_force_stat_armour_black_knights_blood_knights	Armour: %+n for Black Knights, Crypt Horrors, Copsewights and  Risen Longma Rider units	false
+effects_description_wh2_dlc11_effect_force_stat_melee_attack_black_knights_blood_knights	Melee attack: %+n for Black Knights, Crypt Horrors, Copsewights and  Risen Longma Rider units	false
+effects_description_wh_main_effect_tech_unit_xp_levels_crypt_ghouls_horrors	Recruit rank: %+n for Crypt Ghouls, Copsewights and Crypt Horrors units	false
+effects_description_wh_main_effect_tech_upkeep_cost_reduction_crypt_ghouls_horrors	Upkeep: %+n% for Crypt Ghouls, Copsewights and Crypt Horrors units	false
+effects_description_wh_main_effect_force_stat_speed_ghouls_horrors	Speed: %+n% for Crypt Ghoul, Copsewights and Crypt Horror units	false
+effects_description_wh_main_effect_force_stat_weapon_strength_crypt_ghouls_horrors	Weapon strength: %+n% for Crypt Ghouls, Copsewights and Crypt Horrors units	false
+effects_description_wh3_main_effect_ability_combat_regen_ghouls_crypt_horrors	Passive ability: "The Hunger" for Crypt Ghouls, Copsewights and Crypt Horror units	false
+effects_description_wh3_main_effect_healing_cap_ghouls_crypt_horrors	Battle healing cap: %+n% for Crypt Ghouls, Copsewights and Crypt Horrors	false
+effects_description_enable_vigor_mortis	Ability: "Vigor Mortis"	true
+effects_description_cooldown_lesser_doombolt	Cooldown: %+n% to "Lesser Doombolt"	true
+effects_description_ability_enable_lesser_doombolt	Ability: "Lesser Doombolt"	true
+effects_description_ability_miscast_lesser_doombolt_upgraded	Miscast chance: %+n% to "Lesser Doombolt Upgraded"	true
+effects_description_ability_overcast_lesser_doombolt	Overcast spell: "Lesser Doombolt"	true
+effects_description_ability_wom_cost_lesser_doombolt	Winds of magic cost: %+n to "Lesser Doombolt"	true
+effects_description_ability_wom_cost_lesser_doombolt_upgraded	Winds of magic cost: %+n to "Lesser Doombolt Upgraded"	true
+effects_description_ability_miscast_wave_darkness_upgraded	Miscast chance: %+n% to "Wave of Darkness Upgraded"	true
+effects_description_ability_overcast_wave_darkness	Overcast spell: "Wave of Darkness"	true
+effects_description_ability_wom_cost_wave_darkness	Winds of magic cost: %+n to "Wave of Darkness"	true
+effects_description_ability_wom_cost_wave_darkness_upgraded	Winds of magic cost: %+n to "Wave of Darkness Upgraded"	true
+effects_description_ability_cooldown_wave_darkness	Cooldown: %+n% to "Wave of Darkness"	true
+effects_description_ability_enable_wave_darkness	Ability: "Wave of Darkness"	true
+effects_description_astroliche_enable	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Dusk Wight	true
+effects_description_astroliche_recruitment	Hero capacity: %+n for Dusk Wights	true
+effects_description_astroliche_rank	Hero recruit rank: %+n for Dusk Wights	true
+effects_description_jiangshi_superiority_upkeep_zombie	Upkeep: %+n% for Zombie units	true
+effects_description_jiangshi_superiority_recruit_rank	Recruit rank: %+n for Zombies, Grave Guard and Dynasty units	true
+effects_description_jiangshi_superiority_raisdead	Recruit Rank: %+n for units recruited via Raise Dead	true
+effects_description_cathay_relations	Diplomatic relations: %+n with Cathay and Ogre Kingdoms	true
+effects_description_cathy_trade_increase	Income from trade tariffs: %+n%	true
+effects_description_cathay_goods	Tradable resources produced: %+n%	true
+effects_description_jiangshi_superiority_upkeep_gg	Upkeep: %+n% for Grave Guard units	true
+effects_description_jiangshi_superiority_upkeep_dynasty	Upkeep: %+n% for Dynasty units	true
+effects_description_wh_main_effect_force_stat_charge_bonus_pct_blood_knights	Charge bonus: %+n% for Risen Longma Rider units	true
+effects_description_wh_main_effect_force_stat_melee_attack_blood_knights	Melee attack: %+n for Risen Longma Rider units	true
+effects_description_wh_main_effect_force_stat_melee_defence_blood_knights	Melee defence: %+n for Risen Longma Rider units	true
+effects_description_wh_main_effect_agent_recruitment_xp_dignitary_vampire_counts	Hero recruit rank: %+n for Dusk Wights	true
+effects_description_bound_krakens	Bound spell: "Kraken's Pull" 	true
+effects_description_bound_stone_drop	Bound spell: "Assault of Stone" 	true
+effects_description_will_breaker	Passive ability: "Breaker of Wills"	true
+effects_description_unholy_rebirth	Passive ability: "Unholy Rebirth"	true
+effects_description_sheperd_spirits_arm	Armour: %+n for Shuimu and Ethereal units	true
+effects_description_sheperd_spirits_bvi	Bonus vs Infantry: %+n for Shuimu and Ethereal units	true
+effects_description_relentless_zombies_speed	Speed: %+n% for Zombie units	true
+effects_description_relentless_zombies_ldrship	Leadership: %+n for Zombie units	true
+effects_description_astro_horse	Barded Skeletal Steed	true
+effects_description_astro_hellstede	Undead Longma	true
+effects_description_astro_necrocoil	Necro-Coil	true
+effects_description_jade_horse	Barded Skeletal Steed	true
+effects_description_jade_hellsteed	Undead Longma	true
+effects_description_bound_lifebloom	Passive ability: "Life Bloom"	true
+effects_description_bound_deep	Passive ability: "Kiss of the Deep"	true
+effects_description_effect_summon_jiang_zombies	Army ability: "Summon Zombie Longspears"	true
+effects_description_effect_unchained_spirit_storm	Army ability: "Swarm of Hungry Spirits"	true
+effects_description_effect_total_darkness	Army ability: "Malevolent Darkness"	true
+effects_description_wraith_go_loco	Attribute: Rampage for Ethereal units	true
+effects_description_wraith_go_rage	Passive ability: "Rage" for Ethereal units	true
+effects_description_wraith_untouched	Passive ability: "Frenzy" for Ethereal units	true
+effects_description_wraith_recruit	Recruit rank: %+n for for Ethereal units	true
+effects_description_zombie_stride	Attribute: Strider for zombie units	false

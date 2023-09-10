@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/jiangshi_skills.loc/jiangshi_rites_rituals__.loc		
+rituals_display_name_ritual_arboreonecromantics	Ritual of Arboreonecromany 	true
+rituals_display_name_ritual_call_the_night	Ritual of Blackest Night	true
+rituals_display_name_ritual_tenuos_pacts	Ritual of Tenuous Pacts	true
+rituals_display_name_ritual_unshackled_spirits	Ritual of Spirit Unshackling	true
+rituals_description_ritual_arboreonecromantics	"We can raise dead humans and dead beasts, but what about trees?" "We do have a lot of trees." -Tribunal of Night War Council Meeting	true
+rituals_description_ritual_call_the_night	"We have a problem with the effectiveness of enemy artillery and we need a solution." "What if they can't see?" -Tribunal of Night War Council Meeting	true
+rituals_description_ritual_tenuos_pacts	"They wont want to trade with us if their merchants keep getting eaten by Crypt Ghouls." -Tribunal of Night Treasury Meeting	true
+rituals_description_ritual_unshackled_spirits	"These days, there are angry ghosts all around us - dead from wars, sickness, starvation - and nobody cares. So you say you're under a curse? Well so what? So's the whole damn world." -Jigo	true

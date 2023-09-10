@@ -1,0 +1,3 @@
+key	damage	type	message_event_association	show_vfx
+#campaign_map_attritions_tables;4;db/campaign_map_attritions_tables/dust_vmp_cth_dynasty				
+dust_vmp_cth_cult_zomby_army_attrition	attrition_disciple_army	bonus_value_enabled		true

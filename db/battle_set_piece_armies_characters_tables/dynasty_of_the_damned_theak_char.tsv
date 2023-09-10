@@ -1,0 +1,7 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/dynasty_of_the_damned_theak_char												
+yuwei_feng_tome	1	778301541	jiangshi_yuwei_magic	100	778301540	yuwei_feng_4	general	jiang_xiu_necro	ui/portraits/portholes/wh_main_vmp_vampire_counts/yuwei_feng_0.png	34342326	qb_tome_theak_lord	true
+yuwei_feng_dagger	1	778301541	jiangshi_yuwei_magic	100	778301540	yuwei_zombie_dragon	general	jiang_xiu_necro	ui/portraits/portholes/wh_main_vmp_vampire_counts/yuwei_feng_0.png	34342326	qb_dagger_theak_lord	true
+dusk_wight_tome	1	1113463975	jiangshi_dark_magic	100	549568916	astroliche_theak_01	dignitary	astroliche_theak_01	ui/portraits/portholes/wh_main_vmp_vampire_counts/astroliche_theak_01.png	454456677	qb_dusk_tome	false
+dusk_wight_dagger_1	1	536169237	jiangshi_dark_magic	100	1154587181	astroliche_theak_02	dignitary	astroliche_theak_01	ui/portraits/portholes/wh_main_vmp_vampire_counts/astroliche_theak_01.png	454456677	qb_dusk_dagger_h	false
+dusk_wight_dagger_2	1	1087565330	jiangshi_dark_magic	100	1080379385	astroliche_theak_04	dignitary	astroliche_theak_01	ui/portraits/portholes/wh_main_vmp_vampire_counts/astroliche_theak_02.png	454456677	qb_dusk_dagger	false

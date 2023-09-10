@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/jiangshi_special_ability_phases_shdow_.loc		
+special_ability_phases_onscreen_name_theak_thick_shadows	[[col:red]]Roiling Shadows![[/col]]	false
+unit_abilities_additional_ui_effects_localised_text_necro_zap!	Enemies hit by necro-lightning strikes in melee combat	false
+special_ability_phases_onscreen_name_will_breakers	[[col:red]]Faltering Will![[/col]]	false

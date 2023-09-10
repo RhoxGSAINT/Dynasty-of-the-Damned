@@ -1,0 +1,21 @@
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
+#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/astroliche_+								
+astroliche_theak_01	dignitary	wh_main_vmp_vampire_counts			false	false	astroliche_theak_01	1.0000
+astroliche_theak_02	dignitary	wh_main_vmp_vampire_counts			false	false	astroliche_theak_01	1.0000
+jade_shugengan_01	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
+jade_shugengan_02	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
+jade_shugengan_03	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
+wh_main_art_set_vmp_banshee_01	spy	wh_main_vmp_vampire_counts			false	false	wh_main_vmp_banshee	1.0000
+wh_main_art_set_vmp_banshee_02	spy	wh_main_vmp_vampire_counts			false	false	wh_main_vmp_banshee	1.0000
+wh_main_art_set_vmp_banshee_03	spy	wh_main_vmp_vampire_counts			false	false	wh_main_vmp_banshee	1.0000
+jiang_art_set_vmp_necromancer_01	wizard	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_necromancer	1.0000
+jiang_art_set_vmp_necromancer_02	wizard	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_necromancer	1.0000
+jiang_art_set_vmp_necromancer_03	wizard	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_necromancer	1.0000
+jiang_art_set_vmp_wight_king_01	champion	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_wight_king	1.0000
+jiang_art_set_vmp_wight_king_02	champion	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_wight_king	1.0000
+jiang_art_set_vmp_wight_king_03	champion	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_wight_king	1.0000
+jiang_art_set_vmp_wight_king_04	champion	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_wight_king	1.0000
+jiang_art_set_vmp_master_necromancer_01	general	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_master_necromancer	1.0000
+jiang_art_set_vmp_master_necromancer_02	general	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_master_necromancer	1.0000
+jiang_art_set_vmp_master_necromancer_03	general	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_master_necromancer	1.0000
+jiang_art_set_vmp_master_necromancer_04	general	wh_main_vmp_vampire_counts			false	true	wh_main_vmp_master_necromancer	1.0000

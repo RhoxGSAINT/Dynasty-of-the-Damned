@@ -1,0 +1,7 @@
+key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	start_date	end_date	avatar_skill	avatar_special_ability	legendary_item	mp_exclusive	is_wife_ancillary	category	min_starting_age	max_starting_age	min_expiry_age	max_expiry_age	immortal	provided_bodyguard_unit	provided_banner	uniqueness_score	turns_before_swap_allowed	subcategory	randomly_dropped	can_be_stolen	can_be_destroyed	faction_set
+#ancillaries_tables;0;db/ancillaries_tables/astroliche_+																												
+astro_barbed_skele_steed	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	astroliche_theak_02		1	0		false	false	true	anc_set_exclusive_jiangshi
+astro_hellsteed	wh3_main_anc_mount_jade_longma	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	astroliche_theak_03		1	0		false	false	true	anc_set_exclusive_jiangshi
+astro_necrocoil	wh3_main_anc_mount_sky_lantern	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	astroliche_theak_04		1	0		false	false	true	anc_set_exclusive_jiangshi
+jade_hellsteed	wh3_main_anc_mount_jade_longma	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	jade_blooded_shugengan_03		1	0		false	false	true	anc_set_exclusive_jiangshi
+jade_skeletal_barded	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	jade_blooded_shugengan_02		1	0		false	false	true	anc_set_exclusive_jiangshi

@@ -1,0 +1,5 @@
+faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/jiangshi_reborn+						
+		1	jiang_vigorously_animated		x	10
+		1	jiang_lichdom		x	12
+		1	jiang_yuwei_unique_zombie_dragon		x	18
