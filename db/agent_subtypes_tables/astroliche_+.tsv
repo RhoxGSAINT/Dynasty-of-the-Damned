@@ -2,3 +2,4 @@ key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_
 #agent_subtypes_tables;1;db/agent_subtypes_tables/astroliche_+																					
 astroliche_theak_01	true	true		astroliche_theak_01	wh_main_vo_actor_Vampire_WightKing	true	-1	false	true	false	true		jiangshi_dark_magic		true	true	can_be_saved_loaded		false	true	800
 jade_shugengan_01	true	true		jade_blooded_shugengan_01	wh_main_vo_actor_Vampire_FemaleVamp	true	-1	true	true	false	false	jade_shugengan	wh3_main_lore_of_yin		false	true	can_be_saved_loaded		false	true	1400
+jiang_xiu_necro	false	true		yuwei_feng_0	wh_main_vo_actor_Vampire_MasterNecromancer	true	-1	false	true	false	true	legendary_lords	jiangshi_yuwei_magic		true	true	cannot_be_loaded_in_campaign		false	true	1450
