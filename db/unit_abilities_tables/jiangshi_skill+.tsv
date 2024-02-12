@@ -1,6 +1,6 @@
 key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
 #unit_abilities_tables;17;db/unit_abilities_tables/jiangshi_skill+											
 aura_lost_souls	false	aura_lost_souls		wh_type_regeneration		wh_main_anc_group_rare	false	false	passive		false
-army_abilities_summon_the_dead	false	raise_jiangshi_dead		wh_type_augment		wh_main_anc_group_uncommon	false	false	army		false
+army_abilities_summon_the_dead	false	raise_jiangshi_dead		wh_type_summon_unit		wh_main_anc_group_uncommon	false	false	army		false
 army_abilities_rite_spirit_eaters	false	swarm_of_hungry_ghosts		wh_type_area_of_direct_damage		wh_main_anc_group_rare	false	false	army		false
 army_abilities_total_darkness	false	malevolent_darkness		wh_type_area_of_hexes		wh_main_anc_group_uncommon	false	false	army		false
