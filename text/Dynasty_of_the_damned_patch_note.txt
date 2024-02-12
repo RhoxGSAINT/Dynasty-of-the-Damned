@@ -1,0 +1,8 @@
+2024/FEB/12 - Rhox
+- Fixed the issue of army ability not working (Possibly due to mod conflict)
+- Fixed the issue of army_abilities_rite_spirit_eaters not dealing damage
+- Now they have access to army ability in custom battles too
+
+2024/01/19 - Rhox
+- Removed duplicate Mourngul Haunter effect from Spirit well building
+- Fixed the issue of the faction not getting commandments (table was broken for some reason)

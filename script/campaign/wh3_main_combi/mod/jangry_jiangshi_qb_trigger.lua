@@ -9,7 +9,7 @@ local jiangshi_faction = "wh3_dlc21_vmp_jiangshi_rebels";
 --As long as the missions have this basic structure, there is no need to edit the rest of the script, all you have to do is add to the quests table.
 local quests = {
     ["bm_theak_qb_tome"] = {trigger = true, rank = 10, follow_up = false, reward = true, ancil = "the_forbidden_tomes", ai_reward = "the_forbidden_tomes"},
-    ["bm_theak_qb_dagger"] = {trigger = true, rank = 18, follow_up = false, reward = true, ancil = "the_forbidden_tomes", ai_reward = "ancient_sacrifical_dagger"},
+    ["bm_theak_qb_dagger"] = {trigger = true, rank = 18, follow_up = false, reward = true, ancil = "ancient_sacrifical_dagger", ai_reward = "ancient_sacrifical_dagger"},
 }
 
 --Just a table of the keys for multiplayer compatibilty. I fill in this table in the add_rank_listener() function
@@ -77,6 +77,7 @@ local function add_rank_listener()
                 cm:trigger_mission(jiangshi_faction, quests[mission_key].follow_up_mission, true)
             end
         
+            --[[--there is already anillary reward in the DB so don't need to give it for the second time
             if quests[mission_key].reward == true then
                 local char_list = faction:character_list()
                 for i = 0, char_list:num_items() - 1 do
@@ -90,6 +91,7 @@ local function add_rank_listener()
                     end
                 end
             end
+            --]]
 
         end,
         true

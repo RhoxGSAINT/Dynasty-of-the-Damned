@@ -36,3 +36,4 @@ unit_abilities_onscreen_name_army_abilities_rite_spirit_eaters	Swarm of Hungry S
 unit_abilities_tooltip_text_army_abilities_rite_spirit_eaters	The eternally damned also experience eternal hunger, once released from their bonds they will ravage anything that breathes.	true
 unit_abilities_onscreen_name_army_abilities_total_darkness	Malevolent Darkness	true
 unit_abilities_tooltip_text_army_abilities_total_darkness	“I felt myself on the edge of the world; peering over the rim into a fathomless chaos of eternal night.” 	true
+special_ability_phases_onscreen_name_army_abilities_rite_spirit_eaters	Swarm of Hungry Spirits	false
