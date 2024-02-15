@@ -21,6 +21,11 @@ local unit_key_wh_main_vmp_cav_hexwraiths = "wh_main_vmp_cav_hexwraiths"
 local unit_key_jiang_copsewight = "jiang_copsewight"
 local unit_key_jiang_longma_undead = "jiang_longma_undead"
 local unit_key_jiang_shuimu = "jiang_shuimu"
+local unit_key_jiang_cart_0 = "wh_dlc04_vmp_veh_corpse_cart_0_jiang"
+local unit_key_jiang_cart_1 = "wh_dlc04_vmp_veh_corpse_cart_1_jiang"
+local unit_key_jiang_cart_2 = "wh_dlc04_vmp_veh_corpse_cart_2_jiang"
+
+
 
 local rec_source = "raise_dead"
 local subculture = "jiangshi_subculture"
@@ -118,8 +123,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_2" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_spear,
@@ -134,8 +137,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_2" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_crypt_ghouls,
@@ -150,8 +151,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_2" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_shuimu,
@@ -166,8 +165,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_2" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_archer,
@@ -182,7 +179,8 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
+			end
+
             if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
@@ -197,9 +195,7 @@ local function raise_dead_setup()
                     "",
                     false,
                     merc_group
-                )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
+                )         
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_necro_mortar,
@@ -213,9 +209,7 @@ local function raise_dead_setup()
                     "",
                     false,
                     merc_group
-                )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
+                )  
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_spear,
@@ -230,8 +224,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_archer,
@@ -246,8 +238,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_halberd,
@@ -262,8 +252,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_crossbow,
@@ -278,8 +266,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_0_jiang,
@@ -294,8 +280,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_1_jiang,
@@ -310,8 +294,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_crypt_ghouls,
@@ -325,9 +307,7 @@ local function raise_dead_setup()
                     "",
                     false,
                     merc_group
-                )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
+                )      
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_shuimu,
@@ -342,8 +322,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_mon_crypt_horrors,
@@ -358,8 +336,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_inf_syreens,
@@ -374,8 +350,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_mon_mournguls_0,
@@ -389,9 +363,7 @@ local function raise_dead_setup()
                     "",
                     false,
                     merc_group
-                )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
+                ) 
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_cairn_wraiths,
@@ -406,8 +378,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_3" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_damned_cannon,
@@ -422,7 +392,7 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
+			end
             if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
@@ -438,8 +408,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_shuimu,
@@ -454,8 +422,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_spear,
@@ -470,8 +436,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_archer,
@@ -486,8 +450,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_halberd,
@@ -502,8 +464,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_crossbow,
@@ -518,8 +478,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_0_jiang,
@@ -534,8 +492,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_1_jiang,
@@ -550,8 +506,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_crypt_ghouls,
@@ -566,8 +520,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_mon_crypt_horrors,
@@ -582,8 +534,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_inf_syreens,
@@ -598,8 +548,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_mon_mournguls_0,
@@ -614,8 +562,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_cairn_wraiths,
@@ -630,8 +576,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_damned_cannon,
@@ -646,8 +590,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_necro_mortar,
@@ -662,8 +604,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_shadow_lantern,
@@ -678,8 +618,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_4" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_cav_hexwraiths,
@@ -694,7 +632,8 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
+			end
+
             if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
@@ -709,9 +648,7 @@ local function raise_dead_setup()
                     "",
                     false,
                     merc_group
-                )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
+                ) 
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie,
@@ -726,8 +663,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_spear,
@@ -742,8 +677,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_necro_mortar,
@@ -758,8 +691,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_zombie_archer,
@@ -774,8 +705,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_halberd,
@@ -790,8 +719,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_longma_undead,
@@ -806,8 +733,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_grave_guard_crossbow,
@@ -822,8 +747,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_0_jiang,
@@ -838,8 +761,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_grave_guard_1_jiang,
@@ -854,8 +775,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_crypt_ghouls,
@@ -870,8 +789,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_mon_crypt_horrors,
@@ -886,8 +803,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_inf_syreens,
@@ -902,8 +817,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh2_dlc11_cst_mon_mournguls_0,
@@ -918,8 +831,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_inf_cairn_wraiths,
@@ -934,8 +845,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_damned_cannon,
@@ -950,8 +859,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_shadow_lantern,
@@ -966,8 +873,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_jiang_copsewight,
@@ -982,8 +887,6 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
-            if building_name == "wh_main_vmp_settlement_major_5" then
                 cm:add_unit_to_province_mercenary_pool(
                     building_region,
                     unit_key_wh_main_vmp_cav_hexwraiths,
@@ -998,7 +901,50 @@ local function raise_dead_setup()
                     false,
                     merc_group
                 )
-            end
+				cm:add_unit_to_province_mercenary_pool(
+                    building_region,
+                    unit_key_jiang_cart_0,
+                    rec_source,
+                    1,
+                    20,
+                    1,
+                    1,
+                    "",
+                    subculture,
+                    "",
+                    false,
+                    merc_group
+                )
+				cm:add_unit_to_province_mercenary_pool(
+                    building_region,
+                    unit_key_jiang_cart_1,
+                    rec_source,
+                    1,
+                    20,
+                    1,
+                    1,
+                    "",
+                    subculture,
+                    "",
+                    false,
+                    merc_group
+                )
+				cm:add_unit_to_province_mercenary_pool(
+                    building_region,
+                    unit_key_jiang_cart_2,
+                    rec_source,
+                    1,
+                    20,
+                    1,
+                    1,
+                    "",
+                    subculture,
+                    "",
+                    false,
+                    merc_group
+                )
+			end
+
         end,
         true
     )
@@ -1006,8 +952,6 @@ end
 
 cm:add_first_tick_callback(
     function()
-        real_timer.unregister("ui_update_trigger")
-        real_timer.register_repeating("ui_update_trigger", 0)
         raise_dead_setup()
         if cm:is_new_game() then
             rhox_dotd_initial_raise_dead_setup()

@@ -1,0 +1,5 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/dust_DotD_cart							
+wh_dlc04_campaign_vmp_corpse_cart	art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\tech	campaign_cth_corpse_cart		1.0000	1.0000	0.0000	
+wh_dlc04_campaign_vmp_corpse_cart_balefire	art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\tech	campaign_cth_corpse_cart_balefire		1.0000	1.0000	0.0000	
+wh_dlc04_campaign_vmp_corpse_cart_lodestone	art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\tech	campaign_cth_corpse_cart_lodestone		1.0000	1.0000	0.0000	

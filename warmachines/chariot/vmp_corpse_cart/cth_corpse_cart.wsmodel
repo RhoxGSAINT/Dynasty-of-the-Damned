@@ -1,0 +1,97 @@
+<model version="1">
+	<geometry>warmachines\chariot\vmp_corpse_cart\cth_corpse_cart.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\materials\vmp_corpse_cart_bodies_01_weighted4.xml.material</material>
+			<material lod_index="0" part_index="1">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\materials\vmp_cart_bodies_weighted2.xml.material</material>
+			<material lod_index="0" part_index="3">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_7_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_props\materials\skv_plague_censer_weighted_2h_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">warmachines\chariot\vmp_corpse_cart\materials\jbv_giant_gate_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">warmachines\aircraft\cth_sky_lantern\materials\dae_warshrine_ornament_undivide_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="11">warmachines\aircraft\cth_sky_lantern\materials\vmp_black_coach_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="12">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="13">warmachines\aircraft\cth_sky_lantern\materials\emp_crystalball_01_lod1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_0_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="15">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="16">warmachines\materials\cth_sky_lantern_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="17">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="18">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_3_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="19">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\head\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="20">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="21">variantmeshes\wh_variantmodels\hu1e\vmp\vmp_black_knights\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">warmachines\materials\vmp_corpse_cart_bodies_01_weighted4.xml.material</material>
+			<material lod_index="1" part_index="1">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\materials\vmp_cart_bodies_weighted2.xml.material</material>
+			<material lod_index="1" part_index="3">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_7_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_props\materials\skv_plague_censer_weighted_2h_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="9">warmachines\chariot\vmp_corpse_cart\materials\jbv_giant_gate_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">warmachines\aircraft\cth_sky_lantern\materials\dae_warshrine_ornament_undivide_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="11">warmachines\aircraft\cth_sky_lantern\materials\vmp_black_coach_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="12">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="13">warmachines\aircraft\cth_sky_lantern\materials\emp_crystalball_01_lod1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="14">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_0_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="15">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="16">warmachines\materials\cth_sky_lantern_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="17">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="18">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_3_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="19">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\head\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="20">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="21">variantmeshes\wh_variantmodels\hu1e\vmp\vmp_black_knights\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">warmachines\materials\vmp_corpse_cart_bodies_01_weighted4.xml.material</material>
+			<material lod_index="2" part_index="1">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="2">art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\materials\vmp_cart_bodies_weighted2.xml.material</material>
+			<material lod_index="2" part_index="3">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="4">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_7_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_props\materials\skv_plague_censer_weighted_2h_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="9">warmachines\chariot\vmp_corpse_cart\materials\jbv_giant_gate_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">warmachines\aircraft\cth_sky_lantern\materials\dae_warshrine_ornament_undivide_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="11">warmachines\aircraft\cth_sky_lantern\materials\vmp_black_coach_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="12">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="13">warmachines\aircraft\cth_sky_lantern\materials\emp_crystalball_01_lod1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="14">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_0_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="15">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="16">warmachines\materials\cth_sky_lantern_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="17">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="18">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_3_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="19">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\head\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="20">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="21">variantmeshes\wh_variantmodels\hu1e\vmp\vmp_black_knights\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">warmachines\materials\vmp_corpse_cart_bodies_01_weighted4.xml.material</material>
+			<material lod_index="3" part_index="1">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="2">art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\materials\vmp_cart_bodies_weighted2.xml.material</material>
+			<material lod_index="3" part_index="3">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="4">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_7_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu1\vmp\vmp_skeleton_warriors\head\materials\vmp_skeleton_warriors_01_head_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu17\skv\skv_props\materials\skv_plague_censer_weighted_2h_01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="8">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="9">warmachines\chariot\vmp_corpse_cart\materials\jbv_giant_gate_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">warmachines\aircraft\cth_sky_lantern\materials\dae_warshrine_ornament_undivide_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="11">warmachines\aircraft\cth_sky_lantern\materials\vmp_black_coach_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="12">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="13">warmachines\aircraft\cth_sky_lantern\materials\emp_crystalball_01_lod1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="14">warmachines\aircraft\cth_sky_lantern\materials\vmp_mortis_engine_01_submesh_0_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="15">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="16">warmachines\materials\cth_sky_lantern_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="17">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="18">warmachines\aircraft\cth_sky_lantern\materials\cth_sky_lantern_01_submesh_0_sub_3_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="19">variantmeshes\wh_variantmodels\hu1\vmp\vmp_zombies\head\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="20">warmachines\aircraft\cth_sky_lantern\materials\emp_flagellants_torso_02_submesh_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="21">variantmeshes\wh_variantmodels\hu1e\vmp\vmp_black_knights\materials\emp_flagellants_torso_02_submesh_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

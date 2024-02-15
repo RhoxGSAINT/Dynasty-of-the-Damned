@@ -1,6 +1,11 @@
 2024/FEB/15 - Rhox
-- Now wh_main_vmp_master_necromancer, wh_main_vmp_necromancer and wh_main_vmp_wight_king are new subtypes instead of vanilla one
-- Replaced armoury, necromancer, and ossuary building to custom one to make wight king subtype without making building browser UI too messy
+Now Jiangshi faction uses new subtypes instead of vanilla one for following agent_subtypes
+-- wh_main_vmp_master_necromancer, wh_main_vmp_necromancer, and wh_main_vmp_wight_king
+Replaced armoury, necromancer, and ossuary building to custom one to allow recruitment of new agent_subtypes without making building browser UI too messy
+- cleaned up raise dead script a little bit
+
+--All is Dust & Moloch 
+- Made Chinese type cart and applied to units and the necromancer lord & hero
 
 2024/FEB/12 - Rhox
 - Fixed the issue of army ability not working (Possibly due to mod conflict)
