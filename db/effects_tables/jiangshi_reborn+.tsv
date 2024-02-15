@@ -38,3 +38,5 @@ cathy_trade_increase	icon_income_plus.png	105	icon_income_plus.png	campaign	true
 cathay_goods	trade_agreement.png	106	trade_agreement.png	campaign	true
 jiangshi_superiority_upkeep_gg	military_spending.png	107	military_spending.png	campaign	false
 jiangshi_superiority_upkeep_dynasty	military_spending.png	108	military_spending.png	campaign	false
+rhox_dotd_effect_agent_enable_recruitment_champion_jiangshi	wight_king.png	3	wight_king.png	campaign	true
+rhox_dotd_effect_agent_enable_recruitment_wizard_jiangshi	wizard.png	3	wizard.png	campaign	true

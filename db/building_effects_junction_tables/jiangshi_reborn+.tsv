@@ -1,10 +1,9 @@
 building	effect	context_requirement	effect_scope	value	value_damaged	value_ruined
 #building_effects_junction_tables;0;db/building_effects_junction_tables/jiangshi_reborn+						
-wh_main_vmp_necromancers_2	wh3_main_faction_political_diplomacy_mod_cathay	IsFactionJiangshi	faction_to_faction_own_unseen	-15.0000	-7.0000	0.0000
 wh2_main_vmp_wraiths_1	wh2_dlc11_cst_slot_mourngul_haunter	IsFactionJiangshi	faction_to_faction_own_unseen	1.0000	1.0000	0.0000
-wh2_main_vmp_wraiths_1	theak_bm_mounrgul_haunter_fun_tyme		force_to_force_own	1.0000	1.0000	0.0000
+wh2_main_vmp_wraiths_1	theak_bm_mounrgul_haunter_fun_tyme		province_to_province_own	1.0000	1.0000	0.0000
 wh2_main_vmp_wraiths_2	wh2_dlc11_cst_slot_mourngul_haunter	IsFactionJiangshi	faction_to_faction_own_unseen	1.0000	1.0000	0.0000
-wh2_main_vmp_wraiths_2	theak_bm_mounrgul_haunter_fun_tyme		force_to_force_own	1.0000	1.0000	0.0000
+wh2_main_vmp_wraiths_2	theak_bm_mounrgul_haunter_fun_tyme		province_to_province_own	1.0000	1.0000	0.0000
 jiangshi_conclave_1	astroliche_enable		province_to_province_own_unseen	1.0000	0.0000	0.0000
 jiangshi_conclave_1	astroliche_recruitment		faction_to_faction_own_unseen	1.0000	1.0000	0.0000
 jiangshi_conclave_2	astroliche_enable		province_to_province_own_unseen	1.0000	0.0000	0.0000

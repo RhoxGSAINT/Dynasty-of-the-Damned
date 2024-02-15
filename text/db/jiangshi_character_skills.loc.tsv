@@ -1,8 +1,0 @@
-key	text	tooltip
-#Loc;1;text/db/jiangshi_character_skills.loc		
-character_skills_localised_description_jiangshi_malevolant_munitions	Muntions imbued with dark magic for those animated with necromancy to use.	false
-character_skills_localised_name_jiangshi_malevolant_munitions	Malevolant Munitions	false
-character_skills_localised_description_jiangshi_soul_wood_creations_rank7	"Infuse the wailing souls into the wood, turn the dead into terrible weapons."	true
-character_skills_localised_name_jiangshi_soul_wood_creations_rank7	Soul-Wood Construction	true
-character_skills_localised_description_jiangshi_spells_of_protection	The volatility of eastern necromancy makes all but the most accurate blows ineffective to even zombies.	true
-character_skills_localised_name_jiangshi_spells_of_protection	Superior Animation	true

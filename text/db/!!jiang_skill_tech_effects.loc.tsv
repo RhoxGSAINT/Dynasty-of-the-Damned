@@ -108,3 +108,5 @@ effects_description_wraith_go_rage	Passive ability: "Rage" for Ethereal units	tr
 effects_description_wraith_untouched	Passive ability: "Frenzy" for Ethereal units	true
 effects_description_wraith_recruit	Recruit rank: %+n for for Ethereal units	true
 effects_description_zombie_stride	Attribute: Strider for zombie units	false
+effects_description_rhox_dotd_effect_agent_enable_recruitment_champion_jiangshi	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Wight King	false
+effects_description_rhox_dotd_effect_agent_enable_recruitment_wizard_jiangshi	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Necromancer	false

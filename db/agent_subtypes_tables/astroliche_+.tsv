@@ -3,3 +3,6 @@ key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_
 astroliche_theak_01	true	true		astroliche_theak_01	wh_main_vo_actor_Vampire_WightKing	true	-1	false	true	false	true		jiangshi_dark_magic		true	true	can_be_saved_loaded		false	true	800
 jade_shugengan_01	true	true		jade_blooded_shugengan_01	wh_main_vo_actor_Vampire_FemaleVamp	true	-1	true	true	false	false	jade_shugengan	wh3_main_lore_of_yin		false	true	can_be_saved_loaded		false	true	1400
 jiang_xiu_necro	false	true		yuwei_feng_0	wh_main_vo_actor_Vampire_MasterNecromancer	true	-1	false	true	false	true	legendary_lords	jiangshi_yuwei_magic		true	true	cannot_be_loaded_in_campaign		false	true	1450
+dotd_master_necromancer	true	true		jiangshi_cha_master_necromancer_0	wh_main_vo_actor_Vampire_MasterNecromancer	true	-1	false	true	false	true	dotd_master_necromancer			true	true	can_be_saved_loaded		false	true	850
+dotd_wight_king	true	false	ui/campaign ui/agents/wh_main_vmp_champion.png	jiangshi_cha_wight_king_0	wh_main_vo_actor_Vampire_WightKing	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	500
+dotd_vmp_necromancer	true	true	ui/campaign ui/agents/wh_main_lore_vampires.png	jiangshi_cha_necromancer_0	wh_main_vo_actor_Vampire_Necromancer	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	700

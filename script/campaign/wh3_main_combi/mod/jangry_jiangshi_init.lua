@@ -21,6 +21,7 @@ local function jiangshi_init()
     pcall(function()
         mixer_set_faction_trait("wh3_dlc21_vmp_jiangshi_rebels", "jiangshi_rebels_bundle", true)
     end)
+    mixer_disable_lord_recruitment("wh3_dlc21_vmp_jiangshi_rebels", "wh_main_vmp_master_necromancer", "vmp_master_necromancer" ,"dotd_master_necromancer")
     
     if cm:is_new_game() then
  		

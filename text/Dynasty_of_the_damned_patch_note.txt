@@ -1,3 +1,7 @@
+2024/FEB/15 - Rhox
+- Now wh_main_vmp_master_necromancer, wh_main_vmp_necromancer and wh_main_vmp_wight_king are new subtypes instead of vanilla one
+- Replaced armoury, necromancer, and ossuary building to custom one to make wight king subtype without making building browser UI too messy
+
 2024/FEB/12 - Rhox
 - Fixed the issue of army ability not working (Possibly due to mod conflict)
 - Fixed the issue of army_abilities_rite_spirit_eaters not dealing damage
