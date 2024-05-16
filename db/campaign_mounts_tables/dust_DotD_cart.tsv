@@ -1,0 +1,5 @@
+model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	banner_relative_to_mount	prebattle_separation_offset
+#campaign_mounts_tables;9;db/campaign_mounts_tables/dust_DotD_cart								
+jiang_cam_mnt_vmp_corpse_cart	cam_wm_corpse_cart	wh_dlc04_campaign_vmp_corpse_cart	0.8000	wh_main_vo_culture_Vampire	false	0	false	0.0000
+jiang_cam_mnt_vmp_corpse_cart_balefire	cam_wm_corpsecart01_balefire	wh_dlc04_campaign_vmp_corpse_cart_balefire	0.8000	wh_main_vo_culture_Vampire	false	0	false	0.0000
+jiang_cam_mnt_vmp_corpse_cart_lodestone	cam_wm_corpsecart01_lodestone	wh_dlc04_campaign_vmp_corpse_cart_lodestone	0.8000	wh_main_vo_culture_Vampire	false	0	false	0.0000

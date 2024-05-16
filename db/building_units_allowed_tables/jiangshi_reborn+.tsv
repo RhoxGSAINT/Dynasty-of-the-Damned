@@ -46,7 +46,7 @@ key	building	unit	XP	conditions	faction	enabled
 4344405	wh_main_vmp_settlement_major_2	jiang_zombie_reg	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
 4344406	wh_main_special_settlement_altdorf_4_vmp	jiang_zombie_reg	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
 4344407	wh_main_vmp_settlement_minor_3	jiang_zombie_reg	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
-4344408	wh_main_vmp_necromancers_2	jiang_dracolith	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
+4344408	jiangshi_necromancers_2	jiang_dracolith	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
 4344409	jiangshi_burial_recruit_1	jiang_zombie_archer	0	0		false
 4344410	jiangshi_burial_recruit_2	jiang_zombie_archer	0	0		false
 4344411	jiangshi_burial_recruit_3	jiang_zombie_archer	0	0		false
@@ -56,8 +56,8 @@ key	building	unit	XP	conditions	faction	enabled
 4344415	jiangshi_burial_recruit_2	jiang_grave_guard_crossbow_balefireshaft	0	0		false
 4344416	jiangshi_burial_recruit_3	jiang_grave_guard_crossbow_balefireshaft	0	0		false
 4344417	jiangshi_burial_recruit_3	jiang_longma_undead	0	0		false
-4344418	wh_main_vmp_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
-4344419	wh_main_vmp_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
+4344418	jiangshi_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
+4344419	jiangshi_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
 4344420	jiangshi_conclave_1	jiang_damned_cannon	0	0		false
 4344421	jiangshi_conclave_2	jiang_damned_cannon	0	0		false
 4344422	jiangshi_conclave_1	jiang_necro_mortar	0	0		false

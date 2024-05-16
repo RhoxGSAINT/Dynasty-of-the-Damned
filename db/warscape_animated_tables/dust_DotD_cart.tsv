@@ -1,0 +1,5 @@
+key	texture_filename_base	category
+#warscape_animated_tables;2;db/warscape_animated_tables/dust_DotD_cart		
+jiang_vmp_engine_corpse_cart	warmachines\tex	animation
+jiang_vmp_engine_corpse_cart_balefire	warmachines\tex	animation
+jiang_vmp_engine_corpse_cart_lodestone	warmachines\tex	animation

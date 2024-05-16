@@ -2,3 +2,6 @@ key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	buil
 #building_chains_tables;9;db/building_chains_tables/jiangshi_reborn+									
 jiangshi_burial_grounds			military	false	jiangshi_burialground_superchain		0		true
 jiangshi_dark_conclave			military	false	jiangshi_conclave_superchain		0		true
+jangshi_VAMPIRES_armoury			military	true	wh2_main_sch_support1_smith		1		true
+jiangshi_VAMPIRES_necromancers			military	true	wh2_main_sch_support3_wizards		4		true
+jiangshi_VAMPIRES_ossuary			military	true	wh2_main_sch_infrastructure1_farm		1		true

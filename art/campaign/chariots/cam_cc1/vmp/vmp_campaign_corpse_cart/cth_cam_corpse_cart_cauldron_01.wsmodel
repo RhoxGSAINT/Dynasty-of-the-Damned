@@ -1,0 +1,10 @@
+<model version="1">
+	<geometry>art\campaign\chariots\cam_cc1\vmp\vmp_campaign_corpse_cart\cth_cam_corpse_cart_cauldron_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\materials\vmp_corpse_cart_bell_01_weighted2_alpha_on.xml.material</material>
+
+
+
+
+	</materials>
+</model>

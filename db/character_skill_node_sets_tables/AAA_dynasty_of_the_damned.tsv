@@ -1,0 +1,8 @@
+key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/AAA_dynasty_of_the_damned							
+astrolicher_theak	dignitary	false	false				astroliche_theak_01
+jade_shugegnan	general	false	false				jade_shugengan_01
+jian_xiu_necro_set	general	false	false				jiang_xiu_necro
+dotd_master_necromancer	general	false	false				dotd_master_necromancer
+dotd_wight_king	champion	false	false				dotd_wight_king
+dotd_vmp_necromancer	wizard	false	false				dotd_vmp_necromancer

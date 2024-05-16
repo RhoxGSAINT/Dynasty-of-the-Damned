@@ -35,7 +35,7 @@ causes_fear	jiang_longma_att
 flying	jiang_longma_att
 undead	jiang_longma_att
 yin	bm_theak_moloch_monk
-scare_immune	bm_theak_moloch_monk
+immune_to_psychology	bm_theak_moloch_monk
 strider	bm_theak_moloch_monk
 fatigue_immune	bm_theak_moloch_monk
 hide_forest	bm_theak_moloch_monk

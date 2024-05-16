@@ -1,4 +1,4 @@
-bombardment_key	arrival_window	num_projectiles	projectile_type	radius_spread	start_time	launch_source	launch_vfx	launch_height	audio_type	launch_height_underground	randomise_launch
-#projectile_bombardments_tables;6;db/projectile_bombardments_tables/jiangshi_reborn+											
-necrocoil_zzaps	1.0000	3	zzap_necrocoil	12.0000	3.0000	above_target	loupi_aqua_wartp_lightning_bomb_spawn	100	wh_main_spell_ruin_warp_lightning	75	true
-wh2_main_spell_ruin_warp_lightning	1.0000	5	wh2_main_spell_ruin_warp_lightning	8.0000	3.0000	above_target	wh2_main_ruin_warp_lightning_bomb_spawn	100	wh_main_spell_ruin_warp_lightning	75	true
+bombardment_key	arrival_window	num_projectiles	projectile_type	radius_spread	start_time	launch_source	launch_vfx	launch_height	audio_type	launch_height_underground	randomise_launch	deterministic_launch_cadence
+#projectile_bombardments_tables;7;db/projectile_bombardments_tables/jiangshi_reborn+												
+necrocoil_zzaps	1.0000	3	zzap_necrocoil	12.0000	3.0000	above_target	loupi_aqua_wartp_lightning_bomb_spawn	100	wh_main_spell_ruin_warp_lightning	75	true	false
+wh2_main_spell_ruin_warp_lightning	1.0000	5	wh2_main_spell_ruin_warp_lightning	8.0000	3.0000	above_target	wh2_main_ruin_warp_lightning_bomb_spawn	100	wh_main_spell_ruin_warp_lightning	75	true	false

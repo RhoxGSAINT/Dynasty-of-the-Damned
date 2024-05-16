@@ -46,3 +46,6 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 1493447827	jiang_shuimu	0	wh_main_vmp_vampire_merc_pool		jiangshi_subculture	
 1493447828	jiang_longma_undead	0	wh_main_vmp_province_pool		jiangshi_subculture	
 1493447829	jiang_longma_undead	0	wh_main_vmp_vampire_merc_pool		jiangshi_subculture	
+1493447830	wh_dlc04_vmp_veh_corpse_cart_0_jiang	0	wh_main_vmp_province_pool		jiangshi_subculture	
+1493447831	wh_dlc04_vmp_veh_corpse_cart_1_jiang	0	wh_main_vmp_province_pool		jiangshi_subculture	
+1493447832	wh_dlc04_vmp_veh_corpse_cart_2_jiang	0	wh_main_vmp_province_pool		jiangshi_subculture	

@@ -20,8 +20,7 @@ end
 local function jiangshi_init()
     pcall(function()
         mixer_set_faction_trait("wh3_dlc21_vmp_jiangshi_rebels", "jiangshi_rebels_bundle", true)
-    end)
-    
+    end)    
     if cm:is_new_game() then
  		
 		cm:disable_event_feed_events(true, "wh_event_category_character", "", "");	

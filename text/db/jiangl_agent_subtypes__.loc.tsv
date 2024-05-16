@@ -6,3 +6,26 @@ agent_subtypes_onscreen_name_override_jade_shugengan_01	Jade-Blooded Shugengan	t
 agent_subtypes_description_text_override_jade_shugengan_01	Many of dragon sibilings are missing or lost, the scions of those lost have grown disillusioned in the Empire of the Celestial Dragon and now tread a darker paths for power.	true
 agent_subtypes_onscreen_name_override_jiang_xiu_necro	Legendary Lord	true
 agent_subtypes_description_text_override_jiang_xiu_necro	Once a scion from a Dynasty in the Nonchang basin, he traveled to distant Lahmia and returned a powerful Necromancer at the whim of a lord he called Harakhte.	true
+character_skill_node_sets_enc_title_dotd_master_necromancer	Master Necromancer Skills	false
+agent_subtypes_onscreen_name_override_dotd_master_necromancer	Master Necromancer	false
+agent_subtypes_description_text_override_dotd_wight_king		false
+agent_subtypes_onscreen_name_override_dotd_wight_king	Wight King	false
+agent_recruitment_categories_onscreen_description_dotd_master_necromancer		false
+agent_recruitment_categories_onscreen_name_dotd_master_necromancer	Master Necromancer	false
+character_skill_node_sets_enc_title_dotd_wight_king	Wight King Skills	false
+character_skill_node_sets_enc_title_dotd_vmp_necromancer	Necromancer Skills	false
+agent_subtypes_description_text_override_dotd_vmp_necromancer		false
+agent_subtypes_onscreen_name_override_dotd_vmp_necromancer	Necromancer	false
+character_skill_node_sets_enc_title_astrolicher_theak	Dusk Wight Skills	false
+character_skill_node_sets_enc_title_jade_shugegnan	Jade-Blooded Shugengan Skills	false
+character_skill_node_sets_enc_title_jian_xiu_necro_set	Yuwei Ha Feng Skills	true
+agent_culture_details_description_text_14949494	The keeper of the arcane lore casts terrible curses, summoning vengeful desert spirits to feast upon their souls.	false
+agent_culture_details_description_text_14949495	Necromancers are amongst the most cursed of all those who practice the magical arts, for they have exchanged their humanity for the ability to raise the dead.	false
+agent_culture_details_description_text_14949496	A single Banshee is a terrifying prospect, and even those warriors skilled enough to match blades with a Vampire have little defence against her unnatural screams.	false
+agent_culture_details_description_text_14949497	Where Wight Kings were powerful warriors & heroes ressurected Dusk Wight are powerful sorcerers & scholars. 	false
+agent_culture_details_description_text_14949498	Many of dragon sibilings are missing or lost, the scions of those lost have grown disillusioned in the Empire of the Celestial Dragon and now tread a darker paths for power.	false
+agent_culture_details_onscreen_name_14949494	Master Necromancer	false
+agent_culture_details_onscreen_name_14949495	Necromancer	false
+agent_culture_details_onscreen_name_14949496	Banshee	false
+agent_culture_details_onscreen_name_14949497	Dusk Wight	false
+agent_culture_details_onscreen_name_14949498	Jade-Blooded Shugengan	false

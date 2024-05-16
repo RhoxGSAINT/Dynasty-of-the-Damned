@@ -16,7 +16,6 @@ local function rite_unlocks()
         },
         
         --jiangshi necroarbo
-        --build wh_main_vmp_necromancers_1
         {
             -- ["subculture"] = "jiangshi_subculture",
             ["rite_name"] = "ritual_arboreonecromantics",
@@ -25,7 +24,7 @@ local function rite_unlocks()
             function(context, faction_name)
                     local building = context:building();
                     
-                    return building:faction():name() == faction_name and building:name() == "wh_main_vmp_necromancers_1";
+                    return building:faction():name() == faction_name and building:name() == "jiangshi_necromancers_1";
                 end
         },
         {

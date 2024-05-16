@@ -5,15 +5,15 @@ astroliche_theak_02	dignitary	wh_main_vmp_vampire_counts			false	false	astrolich
 jade_shugengan_01	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
 jade_shugengan_02	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
 jade_shugengan_03	general	wh_main_vmp_vampire_counts			false	true	jade_shugengan_01	1.0000
-jiang_art_set_vmp_necromancer_01	wizard		jiangshi_subculture		false	true	wh_main_vmp_necromancer	1.0000
-jiang_art_set_vmp_necromancer_02	wizard		jiangshi_subculture		false	true	wh_main_vmp_necromancer	1.0000
-jiang_art_set_vmp_necromancer_03	wizard		jiangshi_subculture		false	true	wh_main_vmp_necromancer	1.0000
-jiang_master_necromancer_campaign_01	general		jiangshi_subculture		false	true	wh_main_vmp_master_necromancer	1.0000
-jiang_master_necromancer_campaign_02	general		jiangshi_subculture		false	true	wh_main_vmp_master_necromancer	1.0000
-jiang_master_necromancer_campaign_03	general		jiangshi_subculture		false	true	wh_main_vmp_master_necromancer	1.0000
-jiang_master_necromancer_campaign_04	general		jiangshi_subculture		false	true	wh_main_vmp_master_necromancer	1.0000
+jiang_art_set_vmp_necromancer_01	wizard				false	true	dotd_vmp_necromancer	1.0000
+jiang_art_set_vmp_necromancer_02	wizard				false	true	dotd_vmp_necromancer	1.0000
+jiang_art_set_vmp_necromancer_03	wizard				false	true	dotd_vmp_necromancer	1.0000
+jiang_master_necromancer_campaign_01	general				false	true	dotd_master_necromancer	1.0000
+jiang_master_necromancer_campaign_02	general				false	true	dotd_master_necromancer	1.0000
+jiang_master_necromancer_campaign_03	general				false	true	dotd_master_necromancer	1.0000
+jiang_master_necromancer_campaign_04	general				false	true	dotd_master_necromancer	1.0000
 yuwei_feng_0	general	wh_main_vmp_vampire_counts			false	true	jiang_xiu_necro	1.0000
-jiang_art_set_vmp_wight_king_01	champion		jiangshi_subculture		false	true	wh_main_vmp_wight_king	1.0000
-jiang_art_set_vmp_wight_king_02	champion		jiangshi_subculture		false	true	wh_main_vmp_wight_king	1.0000
-jiang_art_set_vmp_wight_king_03	champion		jiangshi_subculture		false	true	wh_main_vmp_wight_king	1.0000
-jiang_art_set_vmp_wight_king_04	champion		jiangshi_subculture		false	true	wh_main_vmp_wight_king	1.0000
+jiang_art_set_vmp_wight_king_01	champion				false	true	dotd_wight_king	1.0000
+jiang_art_set_vmp_wight_king_02	champion				false	true	dotd_wight_king	1.0000
+jiang_art_set_vmp_wight_king_03	champion				false	true	dotd_wight_king	1.0000
+jiang_art_set_vmp_wight_king_04	champion				false	true	dotd_wight_king	1.0000

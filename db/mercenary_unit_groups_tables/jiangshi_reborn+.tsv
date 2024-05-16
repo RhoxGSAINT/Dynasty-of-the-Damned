@@ -23,3 +23,6 @@ terra_sentinel_vmp	100.0000	1	wh3_twa08_cth_mon_terracotta_sentinel_0_ror	true	0
 jiang_wiltings	0.0000	8	jiang_wiltings	false	0.0000
 jiang_wightkin	0.0000	5	jiang_wightkin	false	0.0000
 jiang_copsewight	0.0000	3	jiang_copsewight	false	0.0000
+wh_dlc04_vmp_veh_corpse_cart_0_jiang	0.0000	0	wh_dlc04_vmp_veh_corpse_cart_0_jiang	false	1.0000
+wh_dlc04_vmp_veh_corpse_cart_1_jiang	0.0000	0	wh_dlc04_vmp_veh_corpse_cart_1_jiang	false	1.0000
+wh_dlc04_vmp_veh_corpse_cart_2_jiang	0.0000	0	wh_dlc04_vmp_veh_corpse_cart_2_jiang	false	1.0000
