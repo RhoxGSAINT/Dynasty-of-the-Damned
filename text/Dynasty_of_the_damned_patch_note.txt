@@ -1,8 +1,32 @@
-2024/FEB/15 - Rhox
-Now Jiangshi faction uses new subtypes instead of vanilla one for following agent_subtypes
+2024/MAY/16 Rhox
+- Removed the script that was instantly replenishing all the garrisons for some reason
+- Added Blood Kiss mechanic script for the Jianshi subculture
+- Removed vanilla overriding locs that were used to describe changed unit set as we now have unit set overview now
+
+2024/05/15 - All is Dust
+building_chain_availability_sets_tables
+added special buildings to faction that where missing
+
+faction_agent_permitted_subtypes_tables
+removed wh2_dlc11_cst_mourngul from all other factions
+
+building_effects_junction_tables
+added the IsFactionJiangshi to the context for the effect to appear for amking mournghul availabel to be recruited
+
+character_skill_node_set_items_tables
+added mentor to astrolich and LL
+
+main_units_tables
+gave can siege to all 3 yuwei_feng main units that are the LL
+
+fixed a lot of text that was unknow
+
+2024/FEB/23 - Rhox (I haven't checked animations and textures and such and did only the script and DB jobs)
+Now Jiangshi faction uses new subtypes instead of vanilla ones for following agent_subtypes
 -- wh_main_vmp_master_necromancer, wh_main_vmp_necromancer, and wh_main_vmp_wight_king
-Replaced armoury, necromancer, and ossuary building to custom one to allow recruitment of new agent_subtypes without making building browser UI too messy
+Replaced armory, necromancer, and ossuary building to custom one to allow recruitment of new agent_subtypes without making building browser UI too messy
 - cleaned up raise dead script a little bit
+- Added variant selector support
 
 --All is Dust & Moloch 
 - Made Chinese type cart and applied to units and the necromancer lord & hero

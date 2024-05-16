@@ -5,9 +5,7 @@ land_units_onscreen_name_jiang_grave_guard_crossbow	Grave Guard Crossbowmen 	tru
 land_units_onscreen_name_jiang_shadow_lantern	Shadow-Lantern	true
 land_units_onscreen_name_jiang_zombie_longspear	Zombies (Longspears)	true
 land_units_onscreen_name_jiang_damned_cannon	Damned Cannon	true
-names_name_778301541	Yuwei 	true
-agent_subtypes_onscreen_name_override_jiang_xiu_necro	Dark Pilgrim of Nongchang	true
-agent_subtypes_description_text_override_jiang_xiu_necro		true
+names_name_778301541	Yuwei	true
 names_name_778301540	Ha Feng	true
 land_units_onscreen_name_jiang_zombie_reg	Zombies 	true
 land_units_onscreen_name_jiang_dracolith	Dracoleth	true
