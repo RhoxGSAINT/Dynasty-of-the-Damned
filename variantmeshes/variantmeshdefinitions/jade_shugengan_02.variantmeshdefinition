@@ -1,6 +1,6 @@
 <VARIANT_MESH>
 	<SLOT name="body" >
-		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1e/vmp/jade_blooded_shugenganv2.rigid_model_v2" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/jade_blooded_shugengan/jade_blooded_shugenganv2.wsmodel" >
 			<META_DATA>audio_entity_type:wh3_cth_shugengan_lord_LH</META_DATA>			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>
 	</SLOT>
 	<SLOT name="weapon_2" attach_point="weapon_2" />

@@ -1,4 +1,4 @@
-key	order	icon_file_path
-#agent_recruitment_categories_tables;1;db/agent_recruitment_categories_tables/jiang_reborn+		
-jade_shugengan	4	UI\Common UI\unit_category_icons\commander.png
-dotd_master_necromancer	2	UI\Common UI\unit_category_icons\necromancer.png
+key	order	icon_file_path	show_in_recruitment	counts_towards_caps_when_off_the_map
+#agent_recruitment_categories_tables;2;db/agent_recruitment_categories_tables/jiang_reborn+				
+jade_shugengan	4	UI\Common UI\unit_category_icons\commander.png	true	true
+dotd_master_necromancer	2	UI\Common UI\unit_category_icons\necromancer.png	true	true

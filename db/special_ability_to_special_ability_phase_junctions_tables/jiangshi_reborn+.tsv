@@ -9,3 +9,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	bound_choaking_miasma	false	false	true	wh_dlc05_spell_shadow_melkoths_mystifying_miasma
 1	bm_theak_item_passive_the_forbidden_tome	false	false	true	bm_theak_item_passive_the_forbidden_tome
 1	bloody_confluence	true	false	false	bloody_confluence
+1	bound_fotd	false	false	true	bound_fotd

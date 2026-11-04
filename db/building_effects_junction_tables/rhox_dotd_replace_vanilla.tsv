@@ -51,3 +51,5 @@ jiangshi_ossuary_3	rhox_dotd_effect_agent_enable_recruitment_wizard_jiangshi		pr
 jiangshi_ossuary_3	wh_main_effect_agent_recruitment_xp_wizard_vampire_counts		faction_to_province_own	1.0000	1.0000	0.0000
 jiangshi_ossuary_3	wh_main_effect_province_growth_building		region_to_province_own_unseen	30.0000	15.0000	0.0000
 jiangshi_ossuary_3	wh_main_effect_unit_recruitment_points		province_to_province_own	2.0000	2.0000	0.0000
+jiangshi_armoury_2	wh_main_effect_agent_cap_increase_champion_wight_kings		faction_to_faction_own_unseen	1.0000	1.0000	0.0000
+jiangshi_armoury_2	wh_main_effect_force_all_campaign_experience_base_all		province_to_province_own	2.0000	1.0000	0.0000

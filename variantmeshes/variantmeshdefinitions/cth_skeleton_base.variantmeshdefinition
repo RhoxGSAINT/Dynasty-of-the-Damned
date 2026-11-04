@@ -1,14 +1,12 @@
 <VARIANT_MESH>
 	<SLOT name="head" >
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/cthskeleton.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/dotd/jade_skeleton/torso/jade_skeleton_01.wsmodel"  />
 		
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/cthskeleton_01.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/dotd/jade_skeleton/torso/jade_skeleton_02.wsmodel"  />
 		
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/cthskeleton_02.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/dotd/jade_skeleton/torso/jade_skeleton_03.wsmodel"  />
 		
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/cthskeleton_03.wsmodel"  />
-		
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/vmp/vmp_skeleton_warriors/torso/cthskeleton_04.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1/dotd/jade_skeleton/torso/jade_skeleton_04.wsmodel"  />
 		
 		
 	</SLOT>

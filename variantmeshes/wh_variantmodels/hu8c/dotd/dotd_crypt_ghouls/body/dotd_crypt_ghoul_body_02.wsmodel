@@ -1,0 +1,37 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\dotd_crypt_ghoul_body_02.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_bone_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_eye_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_fins_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_bone_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_eye_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_fins_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_bone_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_head_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_eye_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_legs_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_torso_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_torso_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_fins_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_legs_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_bone_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_head_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_eye_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_legs_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_torso_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_torso_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\cst_crypt_ghoul_fins_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu8c\dotd\dotd_crypt_ghouls\body\materials\vmp_crypt_ghoul_legs_01_2_weighted2_alpha_off.xml.material</material>
+	</materials>
+</model>

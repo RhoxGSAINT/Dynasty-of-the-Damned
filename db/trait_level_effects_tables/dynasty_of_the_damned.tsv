@@ -1,0 +1,4 @@
+trait_level	effect	effect_scope	value
+#trait_level_effects_tables;0;db/trait_level_effects_tables/dynasty_of_the_damned			
+trait_defeated_ws_cha_yuwei_feng	wh_main_effect_character_wound_recovery_time_mod	character_to_character_own	-4.0000
+trait_defeated_ws_cha_yuwei_feng	wh_dlc07_effect_campaign_attrition_vampiric_attrition_casualties	force_to_force_own_lords_army	-75.0000

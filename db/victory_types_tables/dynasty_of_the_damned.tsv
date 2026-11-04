@@ -1,0 +1,4 @@
+victory_type	tree_y	tree_x	icon	length_type	should_show_end_game_ui
+#victory_types_tables;3;db/victory_types_tables/dynasty_of_the_damned					
+dust_d_o_d_victory_type_faction	25	0	short	short	false
+dust_d_o_d_victory_type_subculture	26	0	long	long	true

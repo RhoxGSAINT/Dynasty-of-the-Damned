@@ -69,3 +69,9 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			jiangshi_cha_wight_king_0	vmp_dlc04_all_characters	false
 			jiangshi_cha_wight_king_1	vmp_dlc04_all_characters	false
 			jiangshi_cha_wight_king_2	vmp_dlc04_all_characters	false
+			jiangshi_cha_banshee	ethereal	false
+			jiangshi_cha_banshee	vmp_agents	false
+			jiangshi_cha_banshee	vmp_all	false
+			jiangshi_cha_banshee	vmp_characters	false
+			jiangshi_cha_banshee	vmp_dlc04_all_characters	false
+			jiangshi_cha_banshee	wh_pro02_isabella_extra_upkeep	false

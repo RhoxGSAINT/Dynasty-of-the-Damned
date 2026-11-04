@@ -10,3 +10,5 @@ army_abilities_total_darkness	scalar_missile_damage_base	0.6000	mult
 army_abilities_total_darkness	stat_accuracy	-40.0000	add
 bloody_confluence	stat_resistance_physical	1.2500	mult
 bloody_confluence	scalar_splash_attack_power	1.3000	mult
+bound_fotd	stat_melee_attack	-24.0000	add
+bound_fotd	stat_morale	-8.0000	add

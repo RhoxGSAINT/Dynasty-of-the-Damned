@@ -1,0 +1,102 @@
+
+16/03/2025
+changed the mounts of master necromancers and of the LL. 
+Tables changed: Main units, land units, battle animations, mounts, campaign mounts, variants, node set items (LL was using a vanila skill for getting his pegasus)
+
+31/10/2024 5.3
+
+
+2024/07/28 All is Dust
+added the flying fish Shuimi to custom battles
+changed the persistant of the ghorgon that was tied to the corpse tree
+
+
+2024/06/25
+added victory short and long missing locs
+updated to 5.1.0
+building_chains_tables
+settlement_type_to_building_chains_junctions_tables
+
+2024/05/28
+deleted
+animations\battle\persistent\hu1d_elf_halberd_persistent_metadata_alive_0.anm.meta
+and
+db/culture_to_battle_animation_tables_tables
+changed hu11b_ghorgon_base_persistent_metadata_alive_0 to dod_hu11b_ghorgon_base_persistent_metadata_alive_0 so it isn't overwriting
+
+2024/05/26 Rhox
+- Fixed the issue of rotten gifts tech and death chill polearms tech not working
+
+2024/05/20- All is Dust
+ added victory types db tables
+ added new script with the alternative win conditions
+ added Dave's unit card
+
+2024/05/17 - All is Dust
+ in db/cdir_events_mission_option_junctions_tables/dynasty_of_the_damned
+ changed the 2 gen_target_character into gene_target_none
+ to fix the item not being gained after finishing the quest battle
+
+2024/05/17 - All is Dust
+ whmain_tech_vmp_jiangshi_08 effects now actually work so new entries in
+ effect_bonus_value_ids_unit_sets_tables
+ removed entry in 
+ effect_bonus_value_unit_ability_junctions_tables
+ added entry in
+ effect_bonus_value_unit_set_unit_ability_junctions_tables
+ connecting to a unit set ability that was already made
+
+ in character_skill_level_details_tables
+ astro_barbed_steed
+ jade_skeletal_barded
+ astro_hellsteed
+ jade_hellsteed
+ astro_necrocoil
+ jiang_yuwei_unique_zombie_dragon
+ where changed so their values correspond with the ones at character_skills_to_level_reached_criterias_tables
+
+ bound_fotd was made it was entirely missing it now has entries in most special_ability tables
+
+ ancillaries_onscreen_name_jade_skeletal_barded loc was change to say Barded Skeletal Steed instead of saying the description
+
+2024/MAY/16 Rhox
+- Removed the script that was instantly replenishing all the garrisons for some reason
+- Added Blood Kiss mechanic script for the Jianshi subculture
+- Removed vanilla overriding locs that were used to describe changed unit set as we now have unit set overview now
+
+2024/05/15 - All is Dust
+building_chain_availability_sets_tables
+added special buildings to faction that where missing
+
+faction_agent_permitted_subtypes_tables
+removed wh2_dlc11_cst_mourngul from all other factions
+
+building_effects_junction_tables
+added the IsFactionJiangshi to the context for the effect to appear for amking mournghul availabel to be recruited
+
+character_skill_node_set_items_tables
+added mentor to astrolich and LL
+
+main_units_tables
+gave can siege to all 3 yuwei_feng main units that are the LL
+
+fixed a lot of text that was unknow
+
+2024/FEB/23 - Rhox (I haven't checked animations and textures and such and did only the script and DB jobs)
+Now Jiangshi faction uses new subtypes instead of vanilla ones for following agent_subtypes
+-- wh_main_vmp_master_necromancer, wh_main_vmp_necromancer, and wh_main_vmp_wight_king
+Replaced armory, necromancer, and ossuary building to custom one to allow recruitment of new agent_subtypes without making building browser UI too messy
+- cleaned up raise dead script a little bit
+- Added variant selector support
+
+--All is Dust & Moloch 
+- Made Chinese type cart and applied to units and the necromancer lord & hero
+
+2024/FEB/12 - Rhox
+- Fixed the issue of army ability not working (Possibly due to mod conflict)
+- Fixed the issue of army_abilities_rite_spirit_eaters not dealing damage
+- Now they have access to army ability in custom battles too
+
+2024/01/19 - Rhox
+- Removed duplicate Mourngul Haunter effect from Spirit well building
+- Fixed the issue of the faction not getting commandments (table was broken for some reason)

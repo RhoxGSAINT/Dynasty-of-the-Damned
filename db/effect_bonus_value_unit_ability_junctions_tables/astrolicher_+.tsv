@@ -25,5 +25,4 @@ wraith_go_rage	enable	wh_dlc08_unit_passive_rage
 wraith_untouched	enable	wh_main_unit_passive_frenzy
 ns_missile_reflect	enable	bound_mm
 gs_fogofdamned	enable	bound_fotd
-bfe_ability	enable	wh_dlc04_unit_passive_balefire
 bm_theak_effect_enable_item_passive_the_forbidden_tome	enable	bm_theak_item_passive_the_forbidden_tome

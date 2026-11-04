@@ -2,3 +2,7 @@ key	texture_filename_base	category
 #warscape_animated_tables;2;db/warscape_animated_tables/jiangshi_reborn+		
 damned_cannon	warmachines/engines/cth_grand_cannon	animation
 necro_mortar	warmachines\tex	animation
+vmp_jiang_war_compass	warmachines\tex	animation
+vmp_black_coach_01_jiang	warmachines\tex	animation
+vmp_jiang_war_compass_destruct	warmachines\tex	animation
+vmp_black_coach_01_jiang_destruct	warmachines\tex	animation

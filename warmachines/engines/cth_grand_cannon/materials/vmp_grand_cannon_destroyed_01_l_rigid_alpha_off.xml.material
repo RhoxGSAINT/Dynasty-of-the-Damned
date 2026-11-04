@@ -5,7 +5,7 @@
  <textures>
   <texture>
    <slot version="2">t_xml_base_colour</slot>
-   <source>warmachines\engines\cth_grand_cannon\damned_cannon_01_base_colour.dds</source>
+   <source>warmachines/engines/cth_grand_cannon/materials/damned_cannon_01_base_colour.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_blood_map</slot>

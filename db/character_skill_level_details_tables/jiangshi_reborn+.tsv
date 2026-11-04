@@ -1,8 +1,8 @@
-faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
 #character_skill_level_details_tables;1;db/character_skill_level_details_tables/jiangshi_reborn+						
 		1	jiang_vigorously_animated		x	10
 		1	jiang_lichdom		x	12
-		1	jiang_yuwei_unique_zombie_dragon		x	18
+		1	jiang_yuwei_unique_zombie_dragon		x	16
 		1	jiangshi_anc_mount_vmp_master_necromancer_barded_nightmare		x	7
 		1	jiangshi_anc_mount_vmp_master_necromancer_corpse_cart		x	9
 		1	jiangshi_anc_mount_vmp_master_necromancer_corpse_cart_balefire		x	12

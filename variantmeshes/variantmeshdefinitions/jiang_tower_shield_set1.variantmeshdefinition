@@ -1,10 +1,10 @@
 <VARIANT_MESH>
 	<SLOT name="shield" >
-		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\jiang_tower_shieldv1.rigid_model_v2"  >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\dotd\jade_wight\props\jiang_tower_shieldv1.wsmodel"  >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
-		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\jiang_tower_shieldv2.rigid_model_v2"  >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\dotd\jade_wight\props\jiang_tower_shieldv2.wsmodel"  >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
-		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\jiang_tower_shieldv3.rigid_model_v2"  >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\dotd\jade_wight\props\jiang_tower_shieldv3.wsmodel"  >
 			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
 	</SLOT>
 </VARIANT_MESH>

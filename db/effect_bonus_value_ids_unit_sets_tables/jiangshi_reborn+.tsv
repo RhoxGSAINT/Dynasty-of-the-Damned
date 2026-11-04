@@ -6,7 +6,8 @@ upkeep_mod	zombie_upkeep	vmp_zombies
 mod_land_movement_battle	zombie_speed	vmp_zombies
 morale	zombie_leadership	vmp_zombies
 missile_damage_mod_mult	cm_rangedmg	jiang_cannon_gg
-melee_damage_mod_add	dch_ws	frost_halberds
+melee_damage_mod_mult	dch_ws	frost_halberds
+melee_damage_ap_mod_mult	dch_ws	frost_halberds
 armour_mod	fr_armor	vmp_zombies
 unit_damage_resistance_missile_mod	fss_mr	jiang_lantern_gg
 mod_land_movement_battle	fss_speed	jiang_lantern_gg
@@ -27,3 +28,4 @@ morale	relentless_zombies_ldrship	vmp_zombies
 armour_mod	sheperd_spirits_arm	ethereal_shugen
 damage_vs_infantry	sheperd_spirits_bvi	ethereal_shugen
 unit_xp_mod	wraith_recruit	ethereal_shugen
+unit_damage_resistance_flame_mod	bfe_fr	jiang_lantern_gg

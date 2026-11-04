@@ -1,16 +1,16 @@
 <VARIANT_MESH>
 	<SLOT name="body" >
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body.wsmodel"  >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/celestial_monk/body/celestial_monk_body_01.wsmodel"  >
 			<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>			
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body2.wsmodel"  >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/celestial_monk/body/celestial_monk_body_02.wsmodel"  >
 	       	<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>		
-	    <VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_body3.wsmodel"  >
+	    <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/celestial_monk/body/celestial_monk_body_03.wsmodel"  >
 	       	<META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>			
 	</SLOT>
 		<SLOT name="body" >
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_head2.wsmodel"  >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/celestial_monk/head/celestial_monk_head_01.wsmodel"  >
 			<META_DATA>audio_entity_type:wh3_cth_human_male</META_DATA></VARIANT_MESH>		
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1e\cth\warrior_monk\warrior_monk_head3.wsmodel"  >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1e/dotd/celestial_monk/head/celestial_monk_head_02.wsmodel"  >
 	       	<META_DATA>audio_entity_type:wh3_cth_human_male</META_DATA></VARIANT_MESH>	
 	</SLOT>
 </VARIANT_MESH>

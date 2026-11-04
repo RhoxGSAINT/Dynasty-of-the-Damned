@@ -5,7 +5,7 @@
  <textures>
   <texture>
    <slot version="2">t_xml_base_colour</slot>
-   <source>rigidmodels\buildings\textures\jbv_rural_buildings_atlas02_base_colour.dds</source>
+   <source>warmachines\tex\vmp_rural_buildings_atlas02_base_colour.dds</source>
   </texture>
   <texture>
    <slot version="2">t_xml_blood_map</slot>

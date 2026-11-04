@@ -7,11 +7,19 @@ core:add_listener(
 	end,
 	function(context)
 		local sm = context:slot_manager()
+        local faction = sm:faction()
 		local faction_name = sm:faction():name();
+        local region = sm:region()
 		local region_name = sm:region():name();
-		local x, y = cm:find_valid_spawn_location_for_character_from_settlement(faction_name, region_name, false, true, 12);
-		
-		if x > 0 then
+		local x_coor, y_coor = cm:find_valid_spawn_location_for_character_from_settlement(faction_name, region_name, false, true, 12);
+
+        local settlement = region:settlement();
+        local settlement_x = settlement:logical_position_x();
+        local settlement_y = settlement:logical_position_y();
+		local region_owner = region:owning_faction();
+        local region_owner_key = region_owner:name();
+
+		if x_coor > 0 then
 			-- spawn the army on the faction's turn start, as foreign slot buildings seem to be created just before, meaning attrition is applied before the army is useable
 			core:add_listener(
 				"dust_cult_vmp_cth_army_foreign_slot_" .. faction_name,
@@ -24,8 +32,8 @@ core:add_listener(
 						faction_name,
                         "jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_reg,jiang_zombie_reg,jiang_zombie_reg,jiang_zombie_reg,jiang_zombie_archer,jiang_zombie_archer,jiang_zombie_archer",
 						region_name,
-						x,
-						y,
+						x_coor,
+						y_coor,
 						"general",
 						"dotd_master_necromancer",
 						"",
@@ -37,6 +45,39 @@ core:add_listener(
                             cm:apply_effect_bundle_to_characters_force("dust_cult_vmp_cth_bundle_zombie_army", cqi, 0);
 						end
 					);
+                    
+					-- Declare War (if they are not team mates in MPC)
+                        if not faction:is_team_mate(region_owner) then
+                            cm:force_declare_war(faction_name, region_owner_key, false, false);
+                        end
+                        
+                        -- Destroy Under-City
+                        cm:remove_faction_foreign_slots_from_region(faction:command_queue_index(), sm:region():cqi());
+                        
+                        -- Tell the army owner
+                        cm:show_message_event_located(
+                            faction_name,
+                            "event_feed_strings_text_dust_dotd_event_feed_string_scripted_event_cult_army_title",
+                            "regions_onscreen_" .. region_name,
+                            "event_feed_strings_text_dust_dotd_event_feed_string_scripted_event_cult_army_description",
+                            settlement_x,
+                            settlement_y,
+                            true,
+                            121
+                        );
+                        
+                        -- Tell the region owner
+                        cm:show_message_event_located(
+                            region_owner_key,
+                            "event_feed_strings_text_dust_dotd_event_feed_string_scripted_event_cult_army_title",
+                            "regions_onscreen_" .. region_name,
+                            "event_feed_strings_text_dust_dotd_event_feed_string_scripted_event_cult_army_description_target",
+                            settlement_x,
+                            settlement_y,
+                            true,
+                            121
+                        );
+
 				end,
 				false
 			);

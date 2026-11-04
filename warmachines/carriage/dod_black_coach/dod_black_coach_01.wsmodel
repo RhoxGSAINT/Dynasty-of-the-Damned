@@ -1,0 +1,55 @@
+<model version="1">
+	<geometry>warmachines\carriage\dod_black_coach\dod_black_coach_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\carriage\vmp_black_coach\materials\vmp_black_coach.xml.material</material>
+			<material lod_index="0" part_index="1">warmachines\carriage\dod_black_coach\materials\cth_lord_magistrate_head_01_subm_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">warmachines\carriage\dod_black_coach\materials\carrieg_skirt_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">warmachines\carriage\dod_black_coach\materials\cth_cart_03_lod1_submesh_0_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">warmachines\carriage\dod_black_coach\materials\cth_celestial_guard_halberd_2h___weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_8_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">warmachines\carriage\dod_black_coach\materials\vmp_black_coach_submesh_13_subme_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="7">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_0_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">warmachines\carriage\dod_black_coach\materials\cth_war_compass_01 - clone_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">warmachines\carriage\dod_black_coach\materials\carriage_roof_01_submesh_21_submesh_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="0">warmachines\carriage\vmp_black_coach\materials\vmp_black_coach.xml.material</material>
+			<material lod_index="1" part_index="1">warmachines\carriage\dod_black_coach\materials\cth_lord_magistrate_head_01_subm_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">warmachines\carriage\dod_black_coach\materials\carrieg_skirt_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="3">warmachines\carriage\dod_black_coach\materials\cth_cart_03_lod1_submesh_0_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">warmachines\carriage\dod_black_coach\materials\cth_celestial_guard_halberd_2h___weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_8_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">warmachines\carriage\dod_black_coach\materials\vmp_black_coach_submesh_13_subme_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="7">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_0_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">warmachines\carriage\dod_black_coach\materials\cth_war_compass_01 - clone_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="9">warmachines\carriage\dod_black_coach\materials\carriage_roof_01_submesh_21_submesh_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="0">warmachines\carriage\vmp_black_coach\materials\vmp_black_coach.xml.material</material>
+			<material lod_index="2" part_index="1">warmachines\carriage\dod_black_coach\materials\cth_lord_magistrate_head_01_subm_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">warmachines\carriage\dod_black_coach\materials\carrieg_skirt_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">warmachines\carriage\dod_black_coach\materials\cth_cart_03_lod1_submesh_0_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">warmachines\carriage\dod_black_coach\materials\cth_celestial_guard_halberd_2h___weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_8_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">warmachines\carriage\dod_black_coach\materials\vmp_black_coach_submesh_13_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_0_sub_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">warmachines\carriage\dod_black_coach\materials\cth_war_compass_01_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">warmachines\carriage\dod_black_coach\materials\carriage_roof_01_submesh_21_submesh_1_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="0">warmachines\carriage\vmp_black_coach\materials\vmp_black_coach.xml.material</material>
+			<material lod_index="3" part_index="1">warmachines\carriage\dod_black_coach\materials\cth_lord_magistrate_head_01_subm_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">warmachines\carriage\dod_black_coach\materials\carrieg_skirt_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">warmachines\carriage\dod_black_coach\materials\cth_cart_03_lod1_submesh_0_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">warmachines\carriage\dod_black_coach\materials\cth_celestial_guard_halberd_2h___weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_8_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">warmachines\carriage\dod_black_coach\materials\vmp_black_coach_submesh_13_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_0_sub_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">warmachines\carriage\dod_black_coach\materials\cth_war_compass_01_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">warmachines\carriage\dod_black_coach\materials\carriage_roof_01_submesh_21_submesh_1_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="0">warmachines\carriage\vmp_black_coach\materials\vmp_black_coach.xml.material</material>
+			<material lod_index="4" part_index="1">warmachines\carriage\dod_black_coach\materials\cth_lord_magistrate_head_01_subm_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="2">warmachines\carriage\dod_black_coach\materials\carrieg_skirt_01_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="3">warmachines\carriage\dod_black_coach\materials\cth_cart_03_lod1_submesh_0_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="4">warmachines\carriage\dod_black_coach\materials\cth_celestial_guard_halberd_2h___weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="5">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_8_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="6">warmachines\carriage\dod_black_coach\materials\vmp_black_coach_submesh_13_subme_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="7">warmachines\carriage\dod_black_coach/materials/cth_war_compass_01_submesh_0_sub_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="8">warmachines\carriage\dod_black_coach\materials\cth_war_compass_01_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="9">warmachines\carriage\dod_black_coach\materials\carriage_roof_01_submesh_21_submesh_1_2_weighted2_alpha_off.xml.material</material>
+	</materials>
+</model>

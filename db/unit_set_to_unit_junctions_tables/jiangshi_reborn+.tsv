@@ -131,3 +131,13 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_main_vmp_cav_black_knights_3_jiang	wh2_dlc11_vmp_vets_all_knights_corpse_cart_mortis_engine_black_coach_hexwraiths	false
 			wh_main_vmp_cav_black_knights_3_jiang	wh2_dlc17_graveguard_blackknights_rank7	false
 			wh_main_vmp_cav_black_knights_3_jiang	wh_pro02_isabella_extra_upkeep	false
+			vmp_jiang_veh_war_compass_0	mp_cap_group_rare_single_entities	false
+			vmp_jiang_veh_war_compass_0	mp_cap_unit_vmp_veh_mortis_engine	false
+			vmp_jiang_veh_war_compass_0	vmp_all	false
+			vmp_jiang_veh_war_compass_0	vmp_chariots	false
+			vmp_jiang_veh_war_compass_0	vmp_dlc04_corpse_carts_mortis_engine	false
+			vmp_jiang_veh_war_compass_0	vmp_unit_mortis_engine_0	false
+			vmp_jiang_veh_war_compass_0	war_machines	false
+			vmp_jiang_veh_war_compass_0	wh2_dlc11_vmp_corspe_cart_mortis_engine_black_coach	false
+			vmp_jiang_veh_war_compass_0	wh2_dlc11_vmp_vets_all_knights_corpse_cart_mortis_engine_black_coach_hexwraiths	false
+			vmp_jiang_veh_war_compass_0	wh_pro02_isabella_extra_upkeep	false

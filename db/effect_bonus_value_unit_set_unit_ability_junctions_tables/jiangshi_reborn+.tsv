@@ -3,3 +3,4 @@ bonus_value_id	effect	unit_set_ability
 enable	graveguard_defensive_stance	graveguard_defensive_stance
 enable	zombie_reflect	zombie_reflect
 enable	zombie_reflect	zombie_reflect_mourn
+enable	bfe_ability	bfe_balefire

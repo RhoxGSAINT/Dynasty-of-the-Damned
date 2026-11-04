@@ -1,3 +1,4 @@
 key	active_vfx	banner_vfx	entity_vfx	entity_vfx_attach_type	use_new_vfx_scaling
 #special_ability_phase_displays_tables;2;db/special_ability_phase_displays_tables/jiangshi_reborn+					
 unholy_rebirth_vfx			wh2_main_unit_rebirth_miscast	top	false
+bound_fotd		wh2_dlc11_deep_banner_debuff	wh2_dlc11_deep_fog_of_damned_unit_debuff	top	true

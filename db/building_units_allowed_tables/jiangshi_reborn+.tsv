@@ -57,7 +57,7 @@ key	building	unit	XP	conditions	faction	enabled
 4344416	jiangshi_burial_recruit_3	jiang_grave_guard_crossbow_balefireshaft	0	0		false
 4344417	jiangshi_burial_recruit_3	jiang_longma_undead	0	0		false
 4344418	jiangshi_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
-4344419	jiangshi_necromancers_1	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
+4344419	jiangshi_necromancers_2	jiang_copsewight	0	0	wh3_dlc21_vmp_jiangshi_rebels	true
 4344420	jiangshi_conclave_1	jiang_damned_cannon	0	0		false
 4344421	jiangshi_conclave_2	jiang_damned_cannon	0	0		false
 4344422	jiangshi_conclave_1	jiang_necro_mortar	0	0		false
