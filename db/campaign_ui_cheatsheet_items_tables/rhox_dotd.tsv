@@ -1,0 +1,5 @@
+key	description_text	faction	header_text	image_path	priority_index
+#campaign_ui_cheatsheet_items_tables;0;db/campaign_ui_cheatsheet_items_tables/rhox_dotd					
+wh3_dlc21_vmp_jiangshi_rebels_1	rhox_dotd_cheatsheet_dynasty_text	wh3_dlc21_vmp_jiangshi_rebels	rhox_dotd_cheatsheet_dynasty_header		1
+wh3_dlc21_vmp_jiangshi_rebels_2	cheatsheet_vmp_raising_dead_text	wh3_dlc21_vmp_jiangshi_rebels	war.camp.hp.raising_dead.001		2
+wh3_dlc21_vmp_jiangshi_rebels_3	cheatsheet_vmp_vampiric_corruption_text	wh3_dlc21_vmp_jiangshi_rebels	war.camp.hp.vampiric_corruption.001		3

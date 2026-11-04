@@ -43,7 +43,7 @@ local function jiangshi_init()
         
         
         local jiangshi_faction_str = "wh3_dlc21_vmp_jiangshi_rebels";
-		local jiangshi_unit_list = "jiang_grave_guard_halberd,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_shadow_lantern,jiang_shuimu";
+		local jiangshi_unit_list = "jiang_grave_guard_halberd,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_zombie_longspear,jiang_shadow_lantern,jiang_shuimu,jiang_grave_guard_crossbow,jiang_grave_guard_crossbow";
         local jiangshi_region_key = "wh3_main_combi_region_nonchang";
         local jiangshi_x_pos = 1265;
         local jiangshi_y_pos = 480;

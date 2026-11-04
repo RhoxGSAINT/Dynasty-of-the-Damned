@@ -1,0 +1,4 @@
+key	persistant	show_instant	show_on_navigate	is_header	navigation_order
+#advice_info_texts_tables;3;db/advice_info_texts_tables/rhox_dotd					
+rhox_dotd_cheatsheet_dynasty_text	true	true	true	false	0
+rhox_dotd_cheatsheet_dynasty_header	true	false	true	true	0

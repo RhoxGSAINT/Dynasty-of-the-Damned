@@ -92,15 +92,37 @@ core:add_listener(
 local function dust_cult_vmp_cth_visibility()
     --- get UI components
     local settlement_list = find_uicomponent(core:get_ui_root(), "settlement_panel", "settlement_list")
-    if settlement_list ~= false then
-        local childCount = settlement_list:ChildCount()
-
-        --- Turn on visibility in every settlement
-        for i=1, childCount - 1  do
-            local child = UIComponent(settlement_list:Find(i))
-            local dwf_underway = find_uicomponent(child, "settlement_view", "hostile_views", "wh3_daemon_factions")
-            dwf_underway:SetVisible(true)
-        end 
+    if not settlement_list then
+        return
+    end
+    local childCount = settlement_list:ChildCount()
+    
+    --- Turn on visibility in every settlement
+    for i=1, childCount - 1  do
+        local child = UIComponent(settlement_list:Find(i))
+        if not child then
+            return
+        end
+        
+        local vampire_lair = find_uicomponent(child, "settlement_view", "hostile_views", "wh3_dlc29_vmp_vampire_lair")
+        if vampire_lair and vampire_lair:Visible() then
+            local vampire_coven = find_uicomponent(child, "settlement_view", "hostile_views", "wh3_daemon_factions")
+            if vampire_coven then
+                vampire_coven:SetVisible(false)
+            end
+            return;--From preventing showing ugly building slots
+        end
+        
+        local vampire_coven = find_uicomponent(child, "settlement_view", "hostile_views", "wh3_daemon_factions")
+        if vampire_coven then
+            vampire_coven:SetVisible(true)
+        end
+        local neferate_coven = find_uicomponent(child, "settlement_view", "hostile_views", "wh3_dlc29_nef_vampire_covens")
+        if neferate_coven then
+            neferate_coven:SetVisible(false)
+            neferate_coven:Destroy()
+        end
+        
     end
 end
 
@@ -141,6 +163,35 @@ local function dust_cult_vmp_cth_visibility_listener()
         "ComponentLClickUp",
         function (context)
             return context.string == "square_building_button"
+        end,
+        function()
+            core:get_tm():real_callback(function()
+                dust_cult_vmp_cth_visibility()
+            end, 100)
+        end,
+        true
+    )
+    
+    
+    core:add_listener(
+        "rhox_dotd_coven_click_trigger_3",
+        "ComponentLClickUp",
+        function (context)
+            return context.string == "button_raze"
+        end,
+        function()
+            core:get_tm():real_callback(function()
+                dust_cult_vmp_cth_visibility()
+            end, 100)
+        end,
+        true
+    )
+    
+    core:add_listener(
+        "rhox_dotd_coven_click_trigger_4",
+        "ComponentLClickUp",
+        function (context)
+            return context.string == "button_lair_view"
         end,
         function()
             core:get_tm():real_callback(function()

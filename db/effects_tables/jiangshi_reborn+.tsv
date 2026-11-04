@@ -46,3 +46,4 @@ rhox_dotd_unit_cap_jiang_necro_mortar	unit_capacity.png	1	unit_capacity.png	camp
 rhox_dotd_unit_cap_jiang_shadow_lantern	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_dotd_unit_cap_jiang_shuimu	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_dotd_unit_cap_jiang_longma_undead	unit_capacity.png	1	unit_capacity.png	campaign	true
+rhox_dotd_effect_vampire_lair_destroyed_dummy	vmp_lair.png	1	vmp_lair.png	campaign	false

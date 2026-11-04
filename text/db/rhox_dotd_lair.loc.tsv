@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_dotd_lair.loc		
+incidents_localised_title_rhox_dotd_incident_lair_destroyed	Heathen Crypt Destroyed	false
+incidents_localised_description_rhox_dotd_incident_lair_destroyed	Yuwei Ha Feng regards the Vampire Lair at [[col:green]]{{CcoCampaignEventIncident:FirstTargetName}}[[/col]] and the bloodsucker slumbering within with open contempt.\\n\\n[[col:yellow]]"Eternal unlife is granted by the Yin and by the will of Harakhte. Not by this... barbarian blood!"[[/col]]\\n\\nThe lair has been torn down to its foundations, and the treasures its master hoarded have been rendered into Dark Magic for the Dynasty.	false
+incidents_button_text_rhox_dotd_incident_lair_destroyed		false
+campaign_payload_ui_details_description_rhox_dotd_dummy_lair_destroyed_dark_magic	Total Dark Magic: [[col:green]]+1000[[/col]]	false

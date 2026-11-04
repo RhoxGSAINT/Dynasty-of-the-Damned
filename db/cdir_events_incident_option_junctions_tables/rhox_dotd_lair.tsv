@@ -1,0 +1,4 @@
+id	incident_key	option_key	value	target
+#cdir_events_incident_option_junctions_tables;1;db/cdir_events_incident_option_junctions_tables/rhox_dotd_lair				
+1846200511	rhox_dotd_incident_lair_destroyed	VAR_CHANCE	100	default
+1846200512	rhox_dotd_incident_lair_destroyed	GEN_TARGET_MODEL		default
