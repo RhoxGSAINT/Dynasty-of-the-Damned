@@ -18,6 +18,8 @@
 - Added settlement_type_to_building_chains_junctions_tables (Starting from dlc27)
 - Removed vanilla overriding skins and changed them to wh_main_damned_dynasty specific ones
 - Changed the name of the wh2_dlc10_keepers_of_the_flame_death.xml to the wh2_dlc10_keepers_of_the_flame_death_jiang.xml since it was overriding vanilla. (I Rhox don't know whether it is used or not)
+- Added cheat sheet
+- Added unit_set due to new 9.0
 
 16/03/2025
 changed the mounts of master necromancers and of the LL. 
