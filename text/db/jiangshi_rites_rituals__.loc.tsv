@@ -8,3 +8,5 @@ rituals_description_ritual_arboreonecromantics	"We can raise dead humans and dea
 rituals_description_ritual_call_the_night	"We have a problem with the effectiveness of enemy artillery and we need a solution." "What if they can't see?" -Tribunal of Night War Council Meeting	true
 rituals_description_ritual_tenuos_pacts	"They wont want to trade with us if their merchants keep getting eaten by Crypt Ghouls." -Tribunal of Night Treasury Meeting	true
 rituals_description_ritual_unshackled_spirits	"These days, there are angry ghosts all around us - dead from wars, sickness, starvation - and nobody cares. So you say you're under a curse? Well so what? So's the whole damn world." -Jigo	true
+rituals_display_name_rhox_dotd_vmp_ritual_confederate_lord_yuwei	{{tr:land_units_onscreen_name_yuwei_feng_0}}	false
+rituals_description_rhox_dotd_vmp_ritual_confederate_lord_yuwei	{{tr:ui_text_replacements_localised_text_bloodline_confederate_tooltip}}	false

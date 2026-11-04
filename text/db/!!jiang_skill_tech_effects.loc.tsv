@@ -92,3 +92,4 @@ effects_description_rhox_dotd_unit_cap_jiang_shadow_lantern	Unit capacity: %+n\\
 effects_description_rhox_dotd_unit_cap_jiang_shuimu	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_shuimu}}	false
 effects_description_rhox_dotd_unit_cap_jiang_longma_undead	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_longma_undead}}	false
 effects_description_rhox_dotd_effect_vampire_lair_destroyed_dummy	Cannot occupy Vampire Lairs\\n[[img:bullet_point_white]] Vampire Lairs in captured settlements are destroyed, granting [[col:green]]+1000[[/col]] Dark Magic	false
+effects_description_rhox_dotd_vmp_ritual_confederate_lord_yuwei	Confederate [[b]][[col:yellow]]{{tr:land_units_onscreen_name_yuwei_feng_0}}'s[[/col]][[/b]] faction	false

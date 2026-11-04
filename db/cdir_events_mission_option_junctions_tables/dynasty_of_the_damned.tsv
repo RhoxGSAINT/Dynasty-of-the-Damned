@@ -6,3 +6,5 @@ id	mission_key	option_key	value	target
 2146956043	bm_theak_qb_dagger	GEN_TARGET_NONE		default
 2146956044	bm_theak_qb_dagger	VAR_CHANCE	100	default
 2146956045	bm_theak_qb_dagger	VAR_MISSION_LENGTH_INFINITE		default
+2146956046	rhox_dotd_vmp_mission_confederate_lord_yuwei	VAR_CHANCE	100	default
+2146956047	rhox_dotd_vmp_mission_confederate_lord_yuwei	GEN_TARGET_NONE		default

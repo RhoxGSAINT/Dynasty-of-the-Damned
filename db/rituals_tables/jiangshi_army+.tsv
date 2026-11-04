@@ -4,3 +4,4 @@ ritual_unshackled_spirits	0	ritual_unshackled_spirits	25	STANDARD_RITUAL	0	5		UI
 ritual_call_the_night	0	ritual_call_the_night	20	STANDARD_RITUAL	0	5		UI\skins\warhammer2\darkest_night.png	0		ritual_call_the_night				0	0				default		0.0000	0	0	2147483647
 ritual_arboreonecromantics	0	ritual_arboreonecromantics	15	STANDARD_RITUAL	0	5		UI\skins\warhammer2\arboreo.png	0		ritual_arboreonecromantics				0	0				default		0.0000	0	0	2147483647
 ritual_tenuos_pacts	0	ritual_tenuos_pacts	15	STANDARD_RITUAL	0	5		UI\skins\warhammer2\tenuous_pacts.png	0		ritual_tenuos_pacts				0	0				default		0.0000	0	0	2147483647
+rhox_dotd_vmp_ritual_confederate_lord_yuwei	0	rhox_dotd_vmp_ritual_confederate_lord_yuwei	-1	VAMPIRE_RITUAL_LORDS	0	0		ui/skins/default/dlc29_vmp_legacy_update/vmp_confed_jiang_xiu_necro.png	0	rhox_dotd_vmp_ritual_confederate_lord_yuwei	rhox_dotd_vmp_ritual_confederate_lord_yuwei				0	0				default		0.0000	0	0	2147483647

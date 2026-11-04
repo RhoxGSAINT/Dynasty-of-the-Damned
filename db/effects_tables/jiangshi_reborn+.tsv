@@ -47,3 +47,4 @@ rhox_dotd_unit_cap_jiang_shadow_lantern	unit_capacity.png	1	unit_capacity.png	ca
 rhox_dotd_unit_cap_jiang_shuimu	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_dotd_unit_cap_jiang_longma_undead	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_dotd_effect_vampire_lair_destroyed_dummy	vmp_lair.png	1	vmp_lair.png	campaign	false
+rhox_dotd_vmp_ritual_confederate_lord_yuwei	confederation.png	1	confederation.png	campaign	true

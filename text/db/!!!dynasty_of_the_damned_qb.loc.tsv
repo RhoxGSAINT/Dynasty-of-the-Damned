@@ -36,3 +36,7 @@ scripted_objectives_localised_text_monk_reinforcements_attack	Brace for attack!	
 special_ability_phases_onscreen_name_bloody_confluence	Blood Saturates The Earth	false
 unit_abilities_tooltip_text_bloody_confluence		false
 unit_abilities_onscreen_name_bloody_confluence	Bloody Confluence	false
+missions_localised_title_rhox_dotd_vmp_mission_confederate_lord_yuwei	Confederate {{tr:land_units_onscreen_name_yuwei_feng_0}}	false
+missions_localised_description_rhox_dotd_vmp_mission_confederate_lord_yuwei	{{tr:frontend_faction_leaders_frontend_description_mixer_ime_vmp_jiangshi_rebels}}	false
+mission_text_text_rhox_dotd_vmp_yuwei_cathay_region	Control at least 1 settlement in Cathay.\\nCurrent total: %n / %n	false
+campaign_payload_ui_details_description_dummy_confederate_lord_yuwei	[[col:yellow]]{{tr:land_units_onscreen_name_yuwei_feng_0}}[[/col]] is now available to confederate via the Confederation panel	false
