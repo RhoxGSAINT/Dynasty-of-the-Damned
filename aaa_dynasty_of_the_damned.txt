@@ -1,3 +1,15 @@
+2026/NOV/05 Rhox
+- Removed the Sylvania units from the removing the mercenary recruit script and re added them
+-- military groupings
+-- DotD ranged buffs
+-- IIRC they shouldn't be allowed to DotD, but we haven't blocked bloodline ritual yet, so I revived them.
+-- If you started your campaign already, ctrl c,v the below script in the lua dev console 
+for _, unit in ipairs({"wh2_dlc11_vmp_inf_crossbowmen", "wh2_dlc11_vmp_inf_handgunners"}) do
+	cm:add_unit_to_faction_mercenary_pool(cm:get_local_faction(true), unit, "wh3_dlc29_vmp_additional_units", 999999, 1, 999999, 100, "", "", "", false, unit)
+end
+
+
+
 2026/NOV/04 Rhox
 - Removed custom subculture: Too much overhead and instability
 - Changed skill nodes of generic characters to meet that of 9.0

@@ -121,3 +121,5 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			vmp_jiang_veh_war_compass_0	wh2_dlc11_vmp_corspe_cart_mortis_engine_black_coach	false
 			vmp_jiang_veh_war_compass_0	wh2_dlc11_vmp_vets_all_knights_corpse_cart_mortis_engine_black_coach_hexwraiths	false
 			vmp_jiang_veh_war_compass_0	wh_pro02_isabella_extra_upkeep	false
+			wh2_dlc11_vmp_inf_crossbowmen	jiang_ranged_bows	false
+			wh2_dlc11_vmp_inf_handgunners	jiang_ranged_bows	false

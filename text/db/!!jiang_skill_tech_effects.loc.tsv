@@ -14,8 +14,8 @@ effects_description_fr_mass	Unit mass: %+n% for Zombie units	false
 effects_description_fr_armor	Armour: %+n for Zombie units	false
 effects_description_iw_vigor	Vigour loss reduction: %+n% for Wight Kings and Grave Guard units	false
 effects_description_iw_speed	Speed: %+n% for Grave Guard units	false
-effects_description_scs_range	Range: %+n% for Grave Guard Crossbowmen & Zombie Archer units	false
-effects_description_scs_reload	Reload time reduction: %+n% for Grave Guard Crossbowmen & Zombie Archer units	false
+effects_description_scs_range	Range: %+n% for Grave Guard Crossbowmen, Zombie Archer & Sylvanian Missile units	false
+effects_description_scs_reload	Reload time reduction: %+n% for Grave Guard Crossbowmen, Zombie Archer & Sylvanian Missile units	false
 effects_description_dch_frostbite	Enables frostbite attacks for Risen Longma Riders and Grave Guard (Halberds) units	false
 effects_description_dch_ws	Weapon strength: %+n% for Risen Longma Riders and Grave Guard (Halberds) units	false
 effects_description_cm_curse	Enables disrupting attacks for Damned Cannon & Necro Mortar units	false
@@ -29,11 +29,11 @@ effects_description_bfe_fr	Fire resistance: %n% for Shadow-Lantern units	false
 effects_description_ns_barrier	Barrier hit points: %+n for Necromancers	false
 effects_description_ns_missile_reflect	Bound spell: "Missile Mirror" for Necromancers	false
 effects_description_jaugrel_mounted	Mount: Jaugrel, the Nights Chill	false
-effects_description_jiangshi_mm_reload	Reload time reduction: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units	false
-effects_description_jiangshi_mm_ammun	Ammunition: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units	false
-effects_description_jiangshi_sw_mstr	Missile strength: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
-effects_description_jiangshi_sw_speed	Speed: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
-effects_description_jiangshi_sw_range	Range: %+n% for Ranged Zombie, Ranged Grave Guard, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_mm_reload	Reload time reduction: %+n% for Ranged Zombie, Ranged Grave Guard, Sylvanian Missile, and Artillery units	false
+effects_description_jiangshi_mm_ammun	Ammunition: %+n% for Ranged Zombie, Ranged Grave Guard, Sylvanian Missile, and Artillery units	false
+effects_description_jiangshi_sw_mstr	Missile strength: %+n% for Ranged Zombie, Ranged Grave Guard, Sylvanian Missile, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_sw_speed	Speed: %+n% for Ranged Zombie, Ranged Grave Guard, Sylvanian Missile, and Artillery units {{tr:rank7}}	false
+effects_description_jiangshi_sw_range	Range: %+n% for Ranged Zombie, Ranged Grave Guard, Sylvanian Missile, and Artillery units {{tr:rank7}}	false
 effects_description_jiangshi_ps_armor	Armour: %+n for Zombie units	false
 effects_description_jiangshi_ps_fatigue	Vigour loss reduction: %+n% for Zombie units	false
 effects_description_enable_vigor_mortis	Ability: "Vigor Mortis"	true

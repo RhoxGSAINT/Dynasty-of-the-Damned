@@ -31,8 +31,6 @@ local rhox_dotd_raise_dead_to_remove = {
     {"wh_dlc04_vmp_veh_corpse_cart_1", "wh3_dlc29_vmp_raise_dead_province"},
     {"wh_dlc04_vmp_veh_corpse_cart_2", "wh3_dlc29_vmp_raise_dead_province"},
     {"wh3_main_vmp_inf_grave_guard_2", "wh3_dlc29_vmp_raise_dead_province"},
-    {"wh2_dlc11_vmp_inf_crossbowmen", "wh3_dlc29_vmp_additional_units"},
-    {"wh2_dlc11_vmp_inf_handgunners", "wh3_dlc29_vmp_additional_units"},
 }
 
 local rhox_dotd_raise_dead_to_add = {
@@ -59,6 +57,7 @@ local rhox_dotd_raise_dead_to_add = {
     {"wh_main_vmp_inf_cairn_wraiths_jiang", "wh3_dlc29_vmp_raise_dead_faction"},
     {"wh_main_vmp_veh_black_coach_jiang", "wh3_dlc29_vmp_raise_dead_faction"},
     {"wh_dlc02_vmp_cav_blood_knights_0_jiang", "wh3_dlc29_vmp_raise_dead_faction"},
+    {"wh3_main_vmp_blood_knights_sword_shield_jiang", "wh3_dlc29_vmp_raise_dead_faction"},
     {"wh_dlc04_vmp_veh_mortis_engine_0_jiang", "wh3_dlc29_vmp_raise_dead_faction"},
     {"vmp_jiang_veh_war_compass_0", "wh3_dlc29_vmp_raise_dead_faction"},
     {"jiang_dracolith", "wh3_dlc29_vmp_raise_dead_faction"},
