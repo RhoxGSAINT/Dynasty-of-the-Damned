@@ -1,7 +1,13 @@
 2026/NOV/04 Rhox
 - changed skill nodes to meet that of 9.0
 - Removed custom subculture
--- You need to check mercenary requirement
+-- Check ranged skill
+-- You need to remove technology
+- Updated animation for 9.0
+- Added effect and script for legendary necromancer tech
+- Added settlement_type_to_building_chains_junctions_tables (Starting from dlc27)
+- Check foreign building visibility
+
 
 
 16/03/2025

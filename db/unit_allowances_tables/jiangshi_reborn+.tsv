@@ -1,0 +1,8 @@
+unit_list	faction_set	point_cap
+#unit_allowances_tables;1;db/unit_allowances_tables/jiangshi_reborn+		
+rhox_dotd_unit_cap_jiang_grave_guard_crossbow	vampire_counts	0
+rhox_dotd_unit_cap_jiang_damned_cannon	vampire_counts	0
+rhox_dotd_unit_cap_jiang_necro_mortar	vampire_counts	0
+rhox_dotd_unit_cap_jiang_shadow_lantern	vampire_counts	0
+rhox_dotd_unit_cap_jiang_shuimu	vampire_counts	0
+rhox_dotd_unit_cap_jiang_longma_undead	vampire_counts	0

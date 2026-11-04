@@ -85,3 +85,9 @@ effects_description_wraith_recruit	Recruit rank: %+n for for Ethereal units	true
 effects_description_zombie_stride	Attribute: Strider for zombie units	false
 effects_description_rhox_dotd_effect_agent_enable_recruitment_champion_jiangshi	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Wight King	false
 effects_description_rhox_dotd_effect_agent_enable_recruitment_wizard_jiangshi	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Necromancer	false
+effects_description_rhox_dotd_unit_cap_jiang_grave_guard_crossbow	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_grave_guard_crossbow}}	false
+effects_description_rhox_dotd_unit_cap_jiang_damned_cannon	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_damned_cannon}}	false
+effects_description_rhox_dotd_unit_cap_jiang_necro_mortar	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_necro_mortar}}	false
+effects_description_rhox_dotd_unit_cap_jiang_shadow_lantern	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_shadow_lantern}}	false
+effects_description_rhox_dotd_unit_cap_jiang_shuimu	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_shuimu}}	false
+effects_description_rhox_dotd_unit_cap_jiang_longma_undead	Unit capacity: %+n\\n[[img:bullet_point_white]] {{tr:land_units_onscreen_name_jiang_longma_undead}}	false
