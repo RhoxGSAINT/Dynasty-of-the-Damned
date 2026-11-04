@@ -1,3 +1,4 @@
 member	context	faction
 #campaign_group_member_criteria_factions_tables;1;db/campaign_group_member_criteria_factions_tables/jiangshi_reborn+		
-wh2_dlc15_prison_action_interrogate_jiangshi	ACTOR	wh2_main_hef_yvresse
+dust_cult_vmp_cth_agent_action_expand_cult	ACTOR	wh3_dlc21_vmp_jiangshi_rebels
+jiangshi_rituals	ACTOR	wh3_dlc21_vmp_jiangshi_rebels

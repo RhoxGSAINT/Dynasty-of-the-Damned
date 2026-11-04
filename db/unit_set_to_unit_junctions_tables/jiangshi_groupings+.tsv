@@ -52,10 +52,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc04_vmp_veh_corpse_cart_2_jiang	vmp_chariots	false
 			wh_dlc04_vmp_veh_mortis_engine_0_jiang	vmp_chariots	false
 			wh_main_vmp_veh_black_coach_jiang	vmp_chariots	false
-			wh_main_vmp_cav_black_knights_0_jiang	vmp_corpses	false
-			wh_main_vmp_cav_black_knights_3_jiang	vmp_corpses	false
-			wh_main_vmp_inf_grave_guard_0_jiang	vmp_corpses	false
-			wh_main_vmp_inf_grave_guard_1_jiang	vmp_corpses	false
 			wh_dlc04_vmp_veh_corpse_cart_0_jiang	vmp_dlc04_corpse_carts_mortis_engine	false
 			wh_dlc04_vmp_veh_corpse_cart_1_jiang	vmp_dlc04_corpse_carts_mortis_engine	false
 			wh_dlc04_vmp_veh_corpse_cart_2_jiang	vmp_dlc04_corpse_carts_mortis_engine	false

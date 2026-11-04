@@ -1,6 +1,6 @@
-effect_bundle	payload	duration
-#ritual_payload_effect_bundles_tables;1;db/ritual_payload_effect_bundles_tables/jiangshi_army+		
-ritual_unshackled_spirits	ritual_unshackled_spirits	5
-ritual_call_the_night	ritual_call_the_night	7
-ritual_tenuos_pacts	ritual_tenuos_pacts	10
-ritual_arboreonecromantics	ritual_arboreonecromantics	3
+effect_bundle	payload	duration	scale_effects_by_ritual_uses
+#ritual_payload_effect_bundles_tables;2;db/ritual_payload_effect_bundles_tables/jiangshi_army+			
+ritual_unshackled_spirits	ritual_unshackled_spirits	5	0.0000
+ritual_call_the_night	ritual_call_the_night	7	0.0000
+ritual_tenuos_pacts	ritual_tenuos_pacts	10	0.0000
+ritual_arboreonecromantics	ritual_arboreonecromantics	3	0.0000

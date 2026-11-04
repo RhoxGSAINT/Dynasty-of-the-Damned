@@ -1,3 +1,8 @@
+2026/NOV/04 Rhox
+- changed skill nodes to meet that of 9.0
+- Removed custom subculture
+-- You need to check mercenary requirement
+
 
 16/03/2025
 changed the mounts of master necromancers and of the LL. 

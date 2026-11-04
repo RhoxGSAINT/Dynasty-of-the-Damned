@@ -1,11 +1,8 @@
-local subculture_key = "jiangshi_subculture"
-
 local function rite_unlocks()
     local rites = {
         --jiangshi spirit unlock
         --build wh_main_vmp_bindingcircle_3
         {
-            -- ["subculture"] = "jiangshi_subculture",
             ["rite_name"] = "ritual_unshackled_spirits",
             ["event_name"] = "BuildingCompleted",
             ["condition"] =
@@ -17,7 +14,6 @@ local function rite_unlocks()
         
         --jiangshi necroarbo
         {
-            -- ["subculture"] = "jiangshi_subculture",
             ["rite_name"] = "ritual_arboreonecromantics",
             ["event_name"] = "BuildingCompleted",
             ["condition"] =
@@ -28,7 +24,6 @@ local function rite_unlocks()
                 end
         },
         {
-            -- ["subculture"] = "jiangshi_subculture",
             ["rite_name"] = "ritual_tenuos_pacts",
             ["event_name"] = "CharacterGarrisonTargetAction",
             ["condition"] =
@@ -42,7 +37,6 @@ local function rite_unlocks()
         --Call of night
         --faction leader rank 10
         {
-            -- ["subculture"] = "jiangshi_subculture",
             ["rite_name"] = "ritual_call_the_night",
             ["event_name"] = "CharacterRankUp",
             ["condition"] =
@@ -54,9 +48,9 @@ local function rite_unlocks()
         },
     }
 
-    local human_factions = cm:get_human_factions_of_subculture(subculture_key)
+    local faction = cm:get_faction("wh3_dlc21_vmp_jiangshi_rebels")
 
-    for i = 1, #human_factions do
+    if faction and faction:is_human() then
         local human_faction = human_factions[i]
         local faction_obj = cm:get_faction(human_faction)
 

@@ -1,8 +1,6 @@
 id	culture	faction	remove	set	subculture
 #faction_set_items_tables;1;db/faction_set_items_tables/jiangshi_items+					
-1688618656	wh_main_vmp_vampire_counts		false	anc_set_exclusive_jiangshi	jiangshi_subculture
-1688618657	wh_main_vmp_vampire_counts		false	anc_set_exclusive_vampire_counts	jiangshi_subculture
 1688618658	wh3_main_cth_cathay		false	anc_set_exclusive_jiangshi	
-1688618659	wh_main_vmp_vampire_counts		false	anc_set_exclusive_jiangshi_sea	jiangshi_subculture
-1688618660	wh2_dlc11_cst_vampire_coast		false	anc_set_exclusive_jiangshi_sea	
-1688618661	wh_main_vmp_vampire_counts		false	anc_set_exclusive_cathay	jiangshi_subculture
+1688618662	wh3_main_cth_cathay	wh3_dlc21_vmp_jiangshi_rebels	false	anc_set_exclusive_jiangshi	
+1688618663		wh3_dlc21_vmp_jiangshi_rebels	false	anc_set_exclusive_jiangshi_sea	
+1688618664			false	anc_set_exclusive_jiangshi	wh_main_sc_vmp_vampire_counts

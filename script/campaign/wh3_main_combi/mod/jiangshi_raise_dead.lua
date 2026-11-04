@@ -27,9 +27,9 @@ local unit_key_jiang_cart_2 = "wh_dlc04_vmp_veh_corpse_cart_2_jiang"
 
 
 
-local rec_source = "raise_dead"
-local subculture = "jiangshi_subculture"
-local merc_group = "wh_main_vmp_province_pool"
+local rec_source = ""
+local subculture = ""
+local merc_group = "rhox_dotd_jiangshi_province_pool"
 
 local function rhox_dotd_initial_raise_dead_setup()
     local region_list = cm:model():world():region_manager():region_list()

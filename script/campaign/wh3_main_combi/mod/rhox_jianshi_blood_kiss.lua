@@ -56,7 +56,7 @@ function vampire_bloodlines:rhox_jianshi_faction_leader_killed(character)
 	
 	if pending_battle:is_active() then
 		local function add_faction_leader_bloodkiss(faction)
-			if faction:subculture() == "jiangshi_subculture" then
+			if faction:name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 				cm:faction_add_pooled_resource(faction:name(), "vmp_blood_kiss", "faction_leaders_killed_in_battle", 1);
 			end
 		end
@@ -91,7 +91,7 @@ function vampire_bloodlines:rhox_jianshi_on_vassalage(context)
 		local vassal = context:proposer():name();
 		
 		if self.vassals[vassal] == nil then
-			if context:recipient():subculture() == "jiangshi_subculture" then
+			if context:recipient():name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 				cm:faction_add_pooled_resource(context:recipient():name(), "vmp_blood_kiss", "factions_vassalised", 1);
 				self.vassals[vassal] = true;
 			end
@@ -100,7 +100,7 @@ function vampire_bloodlines:rhox_jianshi_on_vassalage(context)
 		local vassal = context:recipient():name();
 		
 		if self.vassals[vassal] == nil then
-			if context:proposer():subculture() == "jiangshi_subculture" then
+			if context:proposer():name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 				cm:faction_add_pooled_resource(context:proposer():name(), "vmp_blood_kiss", "factions_vassalised", 1);
 				self.vassals[vassal] = true;
 			end
@@ -112,7 +112,7 @@ function vampire_bloodlines:rhox_jianshi_on_liberation_vassalage(context)
 	local vassal = context:faction():name();
 	
 	if self.vassals[vassal] == nil then
-		if context:liberating_character():faction():subculture() == "jiangshi_subculture" then
+		if context:liberating_character():faction():name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 			cm:faction_add_pooled_resource(context:liberating_character():faction():name(), "vmp_blood_kiss", "factions_vassalised", 1);
 			self.vassals[vassal] = true;
 		end
@@ -124,7 +124,7 @@ function vampire_bloodlines:rhox_jianshi_on_assassination(context)
 	if self.assassination_actions[context:agent_action_key()] then
 		local faction = context:character():faction();
 		
-		if faction:subculture() == "jiangshi_subculture" then
+		if faction:name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 			cm:faction_add_pooled_resource(faction:name(), "vmp_blood_kiss", "characters_assassinated", 1);
 		end
 	end
@@ -136,7 +136,7 @@ function vampire_bloodlines:rhox_jianshi_on_technology_researched(context)
 		local faction = context:faction();
 		local amount = self.technologies[context:technology()];
 		
-		if faction:subculture() == "jiangshi_subculture" then
+		if faction:name() == "wh3_dlc21_vmp_jiangshi_rebels" then
 			cm:faction_add_pooled_resource(faction:name(), "vmp_blood_kiss", "other", amount);
 		end	
 	end
