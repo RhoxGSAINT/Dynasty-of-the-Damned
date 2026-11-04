@@ -2,7 +2,7 @@
 - changed skill nodes to meet that of 9.0
 - Removed custom subculture: Too much overhead and instability
 - Added bunch of scripts and DB for the new raise dead
--- Check ranged skill
+- Reworked all the overriding nodes of the battle nodes for the confederating nodes. (Only for the vanilla ones though)
 - Technology is updated to override the proper new ones
 - Updated animation for 9.0
 - Added effect and script for legendary necromancer tech, but they start with vampire tech unlocked because they don't have access to vampire lairs
@@ -11,7 +11,7 @@
 - Changed all unit_xp_mod to mercenary_unit_xp_mod (VC don't have normal recruitment anymore)
 - Added 2 jiang_grave_guard_crossbow to the initial units since they don't have additional unit available at the start of the campaign
 - Updated coven visibility thing since Neferata slot made it stop working
-
+- Removed vanilla overriding skins and changed them to wh_main_damned_dynasty
 
 16/03/2025
 changed the mounts of master necromancers and of the LL. 
