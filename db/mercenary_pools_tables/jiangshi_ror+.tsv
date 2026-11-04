@@ -1,4 +1,4 @@
 key	recruitment_source	ui_recruitment_info
 #mercenary_pools_tables;1;db/mercenary_pools_tables/jiangshi_ror+		
 jiangshi_renown_pool	wh3_main_regiments_of_renown_pool	renown
-rhox_dotd_jiangshi_province_pool		raise_dead
+rhox_dotd_jiangshi_province_pool	province_recruitment	raise_dead

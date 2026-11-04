@@ -10,15 +10,8 @@ local function jiangshi_ror()
 
 		-- Table for faction, unit key and parameters for add_unit_to_faction_mercenary_pool
 		local cror_list = {
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh2_dlc11_cst_mon_mournguls_ror_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh2_dlc11_cst_mon_mournguls_ror_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_cav_chillgheists_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_cav_chillgheists_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_cav_vereks_reavers_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_cav_vereks_reavers_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_inf_feasters_in_the_dusk_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_inf_feasters_in_the_dusk_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_inf_konigstein_stalkers_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_inf_konigstein_stalkers_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_inf_sternsmen_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_inf_sternsmen_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh_dlc04_vmp_veh_claw_of_nagash_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh_dlc04_vmp_veh_claw_of_nagash_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh2_dlc11_cst_inf_deck_gunners_ror_0", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="wh2_dlc11_cst_inf_deck_gunners_ror_0"},
-            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh3_twa08_cth_mon_terracotta_sentinel_0_ror", merc_pool = "jiangshi_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true,merc_group="terra_sentinel_vmp"}
+            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh2_dlc11_cst_inf_deck_gunners_ror_0", merc_pool = "wh3_main_regiments_of_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true, merc_group="wh2_dlc11_cst_inf_deck_gunners_ror_0"},
+            {faction_key = "wh3_dlc21_vmp_jiangshi_rebels", unit = "wh3_twa08_cth_mon_terracotta_sentinel_0_ror", merc_pool = "wh3_main_regiments_of_renown_pool", count = 1, rcp = 100, munits = 1, murpt = 0.1, frr = "", srr = "", trr = "", replen = true, merc_group="terra_sentinel_vmp"}
             }; 
 
 		-- Loop for the table above

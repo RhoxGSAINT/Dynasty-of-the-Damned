@@ -51,13 +51,10 @@ local function rite_unlocks()
     local faction = cm:get_faction("wh3_dlc21_vmp_jiangshi_rebels")
 
     if faction and faction:is_human() then
-        local human_faction = human_factions[i]
-        local faction_obj = cm:get_faction(human_faction)
-
         for j = 1, #rites do
             local this_rite_template = rites[j]
 
-            cm:lock_ritual(faction_obj, this_rite_template.rite_name)
+            cm:lock_ritual(faction, this_rite_template.rite_name)
             local rite = rite_unlock:new(
                 this_rite_template.rite_name,
                 this_rite_template.event_name,
@@ -65,7 +62,7 @@ local function rite_unlocks()
                 true
             )
 
-            rite:start(human_faction)
+            rite:start("wh3_dlc21_vmp_jiangshi_rebels")
         end
     end
 end
