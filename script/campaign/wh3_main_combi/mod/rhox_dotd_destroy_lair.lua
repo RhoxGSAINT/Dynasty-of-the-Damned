@@ -19,16 +19,18 @@ local function rhox_dotd_destroy_lair(region_key)
     end
     cm:remove_faction_foreign_slots_from_region(faction:command_queue_index(), region:cqi(), lair_owned_slot_set)
 
+    cm:treasury_mod(jiangshi_faction_key, lair_destroy_reward)
+
     if not faction:is_human() then
-        cm:treasury_mod(jiangshi_faction_key, lair_destroy_reward)
         return
     end
 
     local incident_builder = cm:create_incident_builder("rhox_dotd_incident_lair_destroyed")
     incident_builder:add_target("default", region)
 
+    -- Dummy text only; the reward itself is given by treasury_mod above
     local payload_builder = cm:create_payload()
-    payload_builder:treasury_adjustment(lair_destroy_reward)
+    payload_builder:text_display("rhox_dotd_dummy_lair_destroyed_dark_magic")
     incident_builder:set_payload(payload_builder)
     payload_builder:clear()
     cm:launch_custom_incident_from_builder(incident_builder, faction)

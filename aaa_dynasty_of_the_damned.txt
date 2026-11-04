@@ -1,17 +1,23 @@
 2026/NOV/04 Rhox
-- changed skill nodes to meet that of 9.0
 - Removed custom subculture: Too much overhead and instability
+- Changed skill nodes of generic characters to meet that of 9.0
 - Added bunch of scripts and DB for the new raise dead
+-- Building effect
+-- Mercenary redefine
+-- Scripts
 - Reworked all the overriding nodes of the battle nodes for the confederating nodes. (Only for the vanilla ones though)
-- Technology is updated to override the proper new ones
+- Added Vampire lair destroying script since they don't have access to these vampire bloodline lords
 - Updated animation for 9.0
+- Added VC type confederation ritual and mission for them
+- Technology is updated to override the proper new ones
 - Added effect and script for legendary necromancer tech, but they start with vampire tech unlocked because they don't have access to vampire lairs
-- Added settlement_type_to_building_chains_junctions_tables (Starting from dlc27)
-- Check foreign building visibility
 - Changed all unit_xp_mod to mercenary_unit_xp_mod (VC don't have normal recruitment anymore)
-- Added 2 jiang_grave_guard_crossbow to the initial units since they don't have additional unit available at the start of the campaign
+- Added 2 jiang_grave_guard_crossbow to the initial units since they don't have additional unit available at the start of the campaign. (It's still a Phyric victory in the easy setting)
+- Gave wh3_main_skill_node_all_army_of_renown_lord skill to the jade_shugegnan, and wh3_main_skill_node_all_army_of_renown_legendary_lord for the jian_xiu_necro_set
 - Updated coven visibility thing since Neferata slot made it stop working
-- Removed vanilla overriding skins and changed them to wh_main_damned_dynasty
+- Added settlement_type_to_building_chains_junctions_tables (Starting from dlc27)
+- Removed vanilla overriding skins and changed them to wh_main_damned_dynasty specific ones
+- Changed the name of the wh2_dlc10_keepers_of_the_flame_death.xml to the wh2_dlc10_keepers_of_the_flame_death_jiang.xml since it was overriding vanilla. (I Rhox don't know whether it is used or not)
 
 16/03/2025
 changed the mounts of master necromancers and of the LL. 

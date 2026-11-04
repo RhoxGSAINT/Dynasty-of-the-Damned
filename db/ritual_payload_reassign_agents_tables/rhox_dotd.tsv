@@ -1,3 +1,3 @@
 agent_type	agent_subtype	payload	send_to_pool
-#ritual_payload_reassign_agents_tables;1;db/ritual_payload_reassign_agents_tables/rhox_dotd_confed			
+#ritual_payload_reassign_agents_tables;1;db/ritual_payload_reassign_agents_tables/rhox_dotd			
 general	jiang_xiu_necro	rhox_dotd_vmp_ritual_confederate_lord_yuwei	true
